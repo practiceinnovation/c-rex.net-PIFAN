@@ -12,7 +12,7 @@ Das Gerät verwendet den Elektromotor ABC-123 und darf nur mit diesem betrieben 
 
 
 
-: Gehäuseabdeckung entfernen
+_: Gehäuseabdeckung entfernen_
 
 1. Trennen Sie das Gerät vom Stromnetz
 

@@ -1,4 +1,110 @@
-﻿# ShortManual# Bestimmungsgemäße Verwendung
+﻿# ShortManual
+
+## Allgemeine Sicherheitshinweise
+
+**Beachten Sie beim Umgang mit dem Gerät die folgenden Sicherheitshinweise.**
+
+<table>
+    <tr>
+        <td>
+
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)</td>
+        <td>
+
+
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Warnung!
+</td>
+    </tr>
+    <tr>
+        <td>
+Stromschlag-Gefahr
+</td>
+    </tr>
+    <tr>
+        <td>
+Schützen Sie das Gerät vor Feuchtigkeit und Niederschlag!
+
+Nehmen Sie am Gerät nur Veränderungen vor, die ausdrücklich in der Bedienungsanleitung beschrieben sind!
+</td>
+    </tr>
+</table>
+
+
+<table>
+    <tr>
+        <td>
+
+![../../../images/media/Brand.wmf](../../../images/media/Brand.wmf)</td>
+        <td>
+
+
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Warnung!
+</td>
+    </tr>
+    <tr>
+        <td>
+Brandgefahr
+</td>
+    </tr>
+    <tr>
+        <td>
+Halten Sie das Gerät während des Betriebs von leicht entzündlichen Stoffen fern!
+</td>
+    </tr>
+</table>
+
+
+<table>
+    <tr>
+        <td>
+
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)</td>
+        <td>
+
+
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Vorsicht!
+</td>
+    </tr>
+    <tr>
+        <td>
+Verletzungsgefahr durch Umfallen
+</td>
+    </tr>
+    <tr>
+        <td>
+Stellen Sie das Gerät nur auf ebene Flächen, um Verletzungen an Personen und Haustieren sowie Schäden an Gegenständen zu vermeiden!
+
+Halten Sie Kleinkinder und Haustiere von dem Gerät fern!
+</td>
+    </tr>
+</table>
+
+
+<table>
+    <tr>
+        <td>
+
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)</td>
+        <td>
+Hinweis
+</td>
+    </tr>
+    <tr>
+        <td>
+Transportschäden
+</td>
+    </tr>
+    <tr>
+        <td>
+Verwenden Sie für den Transport über große Distanzen die vollständige mitgelieferte Verpackung, um Transportschäden am Gerät zu vermeiden!
+</td>
+    </tr>
+</table>
+
+
+## Produktbeschreibung
+
+### Bestimmungsgemäße Verwendung
 
 Nutzen Sie das Gerät nur für die bestimmungsgemäße Verwendung und unter Beachtung der Sicherheitsvorkehrungen, welche in der Bedienungsanleitung beschrieben sind, um Gefährdungen für Personen und Schäden an Gegenständen zu vermeiden.
 
@@ -14,7 +120,9 @@ Die bestimmungsgemäße Verwendung umfasst:
 
 - Für den Transport innerhalb von Räumen muss die Tragevorrichtung am Gerät verwendet werden.
 
-- Während des Betriebs muss das Gerät auf seinem Standfuß stehen.# Vorhersehbarer Fehlgebrauch
+- Während des Betriebs muss das Gerät auf seinem Standfuß stehen.
+
+### Vorhersehbarer Fehlgebrauch
 
 Beachten Sie nachfolgende Hinweise, um einen vorhersehbaren Fehlgebrauch zu vermeiden:
 
@@ -32,7 +140,9 @@ Beachten Sie nachfolgende Hinweise, um einen vorhersehbaren Fehlgebrauch zu verm
 
 - Nutzen Sie das Gerät nicht zum Erwärmen von Gegenständen.
 
-- Stellen Sie das Gerät zum Erwärmen der Raumluft in einem Mindestabstand von 2 Metern zu Personen und Gegenständen auf und schalten Sie die Schwenkfunktion ein (siehe Kapitel 5.1).# Technische Daten
+- Stellen Sie das Gerät zum Erwärmen der Raumluft in einem Mindestabstand von 2 Metern zu Personen und Gegenständen auf und schalten Sie die Schwenkfunktion ein (siehe Kapitel 5.1).
+
+### Technische Daten
 
 <table>
     <tr>
@@ -204,7 +314,11 @@ II
 </td>
     </tr>
 </table>
-# Höhe einstellen
+
+
+## Bedienung
+
+### Höhe einstellen
 
 ***
 
@@ -226,7 +340,7 @@ Die Höhe des Geräts ist stufenlos einstellbar.
 
 
 
-: Höhe einstellen
+_: Höhe einstellen_
 
 ![: Höhe einstellen](../../../images/media/Stand_1_H_he_einstellen.png ": Höhe einstellen")
 
@@ -240,7 +354,9 @@ Die Höhe des Geräts ist stufenlos einstellbar.
 
 5. Lassen Sie den Griff los.
 
-    ► Das Gerät hat nun die gewünschte Höhe# Neigung einstellen
+    ► Das Gerät hat nun die gewünschte Höhe
+
+### Neigung einstellen
 
 ***
 
@@ -272,11 +388,13 @@ Hinweis: Ein deutlich hörbares Einrastgeräusch signalisiert, dass sich der Nei
 
 ![../../../images/media/Stand_2_Neigen.png](../../../images/media/Stand_2_Neigen.png)
 
-: Neigung einstellen
+_: Neigung einstellen_
 
 1. Greifen Sie den Ventilator am Griff auf der Oberseite.
 
-2. Neigen Sie den Ventilator, bis er den gewünschten Neigungswinkel erreicht hat.# Einschalten / Geschwindigkeit einstellen
+2. Neigen Sie den Ventilator, bis er den gewünschten Neigungswinkel erreicht hat.
+
+### Einschalten / Geschwindigkeit einstellen
 
 ***
 
@@ -336,7 +454,9 @@ Mit dem Drehknopf 1 steuern Sie die Geschwindigkeit des Lüfterrades.
 
 4. Drehen Sie den Drehknopf ganz nach links (gegen den Uhrzeigersinn), um das Gerät auszuschalten.
 
-    ► Das Gerät ist nun ausgeschaltet und verbraucht keinen Strom mehr.# Schwenkfunktion ein-/ausschalten
+    ► Das Gerät ist nun ausgeschaltet und verbraucht keinen Strom mehr.
+
+### Schwenkfunktion ein-/ausschalten
 
 **Steps:**
 
@@ -346,11 +466,17 @@ Mit dem Drehknopf 1 steuern Sie die Geschwindigkeit des Lüfterrades.
 
 1. Drücken Sie die Taste 1, bis sie hörbar einrastet, und lassen Sie sie dann los, um die Schwenkfunktion einzuschalten
 
-    ► Die Schwenkfunktion ist nun eingeschaltet und die Taste 1 bleibt gedrückt.Die grüne LED leuchtet.
+    ► Die Schwenkfunktion ist nun eingeschaltet und die Taste 1 bleibt gedrückt.
+
+Die grüne LED leuchtet.
 
 2. Drücken Sie die Taste 1 erneut, bis sie hörbar einrastet, und lassen Sie sie dann los, um die Schwenkfunktion auszuschalten
 
-    ► Die Schwenkfunktion ist nun ausgeschaltet und die Taste 1 befindet sich wieder in ihrer Ausgangsposition.Die grüne LED leuchtet nicht.# Heizung ein-/ausschalten
+    ► Die Schwenkfunktion ist nun ausgeschaltet und die Taste 1 befindet sich wieder in ihrer Ausgangsposition.
+
+Die grüne LED leuchtet nicht.
+
+### Heizung ein-/ausschalten
 
 **Steps:**
 
@@ -360,11 +486,17 @@ Mit dem Drehknopf 1 steuern Sie die Geschwindigkeit des Lüfterrades.
 
 1. Drücken Sie die Taste 1, bis sie hörbar einrastet, und lassen Sie sie dann los, um die Heizung zu aktivieren
 
-    ► Die Heizung ist nun eingeschaltet und die Taste 1 bleibt gedrückt.Die rote LED leuchtet.
+    ► Die Heizung ist nun eingeschaltet und die Taste 1 bleibt gedrückt.
+
+Die rote LED leuchtet.
 
 2. Drücken Sie die Taste 1 erneut, bis sie hörbar einrastet, und lassen Sie sie dann los, um die Heizung zu deaktivieren
 
-    ► Die Heizung ist nun ausgeschaltet und die Taste 1 befindet sich wieder in ihrer Ausgangsposition.Die rote LED leuchtet nicht.# Display
+    ► Die Heizung ist nun ausgeschaltet und die Taste 1 befindet sich wieder in ihrer Ausgangsposition.
+
+Die rote LED leuchtet nicht.
+
+### Display
 
 Das Gerät verfügt über ein Display 1, welches Ihnen die Raumtemperatur in °C anzeigt. Außerdem zeigt das Display alle elektronisch erfassbaren Probleme am Gerät durch Fehlercodes an (siehe Kapitel 7.1).
 

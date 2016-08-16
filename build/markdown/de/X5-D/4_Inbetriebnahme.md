@@ -12,7 +12,7 @@ Das Gerät wird mit einer Netzspannung von 230V Wechselstrom betrieben. Schließ
 
 
 
-: Anschluss an das Stromnetz
+_: Anschluss an das Stromnetz_
 
 ![: Anschluss an das Stromnetz](../../../images/media/Steckdose.png ": Anschluss an das Stromnetz")
 

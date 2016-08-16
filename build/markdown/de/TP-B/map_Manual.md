@@ -1,4 +1,60 @@
-﻿# Manual# Bestimmungsgemäße Verwendung
+﻿# Manual
+
+## Allgemeine Sicherheitshinweise
+
+**Beachten Sie beim Umgang mit dem Gerät die folgenden Sicherheitshinweise.**
+
+<table>
+    <tr>
+        <td>
+
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)</td>
+        <td>
+
+
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Warnung!
+</td>
+    </tr>
+    <tr>
+        <td>
+Stromschlag-Gefahr
+</td>
+    </tr>
+    <tr>
+        <td>
+Schützen Sie das Gerät vor Feuchtigkeit und Niederschlag!
+
+Nehmen Sie am Gerät nur Veränderungen vor, die ausdrücklich in der Bedienungsanleitung beschrieben sind!
+</td>
+    </tr>
+</table>
+
+
+<table>
+    <tr>
+        <td>
+
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)</td>
+        <td>
+Hinweis
+</td>
+    </tr>
+    <tr>
+        <td>
+Transportschäden
+</td>
+    </tr>
+    <tr>
+        <td>
+Verwenden Sie für den Transport über große Distanzen die vollständige mitgelieferte Verpackung, um Transportschäden am Gerät zu vermeiden!
+</td>
+    </tr>
+</table>
+
+
+## Produktbeschreibung
+
+### Bestimmungsgemäße Verwendung
 
 Nutzen Sie das Gerät nur für die bestimmungsgemäße Verwendung und unter Beachtung der Sicherheitsvorkehrungen, welche in der Bedienungsanleitung beschrieben sind, um Gefährdungen für Personen und Schäden an Gegenständen zu vermeiden.
 
@@ -12,7 +68,9 @@ Die bestimmungsgemäße Verwendung umfasst:
 
 - Für den Transport innerhalb von Räumen muss die Tragevorrichtung am Gerät verwendet werden.
 
-- Während des Betriebs muss das Gerät auf seinem Standfuß stehen.# Vorhersehbarer Fehlgebrauch
+- Während des Betriebs muss das Gerät auf seinem Standfuß stehen.
+
+### Vorhersehbarer Fehlgebrauch
 
 Beachten Sie nachfolgende Hinweise, um einen vorhersehbaren Fehlgebrauch zu vermeiden:
 
@@ -26,7 +84,9 @@ Beachten Sie nachfolgende Hinweise, um einen vorhersehbaren Fehlgebrauch zu verm
 
 - Stecken Sie keine Gegenstände oder Körperteile durch das Schutzgitter, während das Gerät mit dem Stromnetz verbunden ist.
 
-- Verwenden Sie das Gerät nur bei einer Luftfeuchtigkeit von höchstens 65%.# Technische Daten
+- Verwenden Sie das Gerät nur bei einer Luftfeuchtigkeit von höchstens 65%.
+
+### Technische Daten
 
 <table>
     <tr>
@@ -198,7 +258,11 @@ II
 </td>
     </tr>
 </table>
-# Rotor montieren
+
+
+## Montage
+
+### Rotor montieren
 
 Sicherheitshinweise
 
@@ -216,7 +280,7 @@ Sicherheitshinweise
 
 
 
-: Schutzgitter-Rückseite montieren
+_: Schutzgitter-Rückseite montieren_
 
 ![: Schutzgitter-Rückseite montieren](../../../images/media/Stand_1_Schutzgitter_Num_3_1.png ": Schutzgitter-Rückseite montieren")
 
@@ -226,7 +290,7 @@ Sicherheitshinweise
 
     ► Die Schutzgitterrückseite ist nun montiert.
 
-: Rotor montieren
+_: Rotor montieren_
 
 ![: Rotor montieren](../../../images/media/Stand_2_Rotor_Num.png ": Rotor montieren")
 
@@ -236,7 +300,7 @@ Sicherheitshinweise
 
     ► Der Rotor ist nun montiert.
 
-: Schutzgitter-Vorderseite montieren
+_: Schutzgitter-Vorderseite montieren_
 
 ![: Schutzgitter-Vorderseite montieren](../../../images/media/Stand_3_Schutzgitter_Vorderseite_Num.png ": Schutzgitter-Vorderseite montieren")
 
@@ -248,9 +312,39 @@ Sicherheitshinweise
 
 ► 
 
-: Rotor montiert
+_: Rotor montiert_
 
-![: Rotor montiert](../../../images/media/Montage_Stand_Ventilatorkopf_Fertig.png ": Rotor montiert")Sie haben den Rotor und das Schutzgitter nun fertig montiert.# Neigung einstellen
+![: Rotor montiert](../../../images/media/Montage_Stand_Ventilatorkopf_Fertig.png ": Rotor montiert")
+
+Sie haben den Rotor und das Schutzgitter nun fertig montiert.
+
+## Inbetriebnahme
+
+***
+
+**Note:**
+
+Das Gerät wird mit einer Netzspannung von 230V Wechselstrom betrieben. Schließen Sie das Gerät wie im Folgenden beschrieben an das Stromnetz an.
+
+***
+
+**Steps:**
+
+
+
+_: Anschluss an das Stromnetz_
+
+![: Anschluss an das Stromnetz](../../../images/media/Steckdose.png ": Anschluss an das Stromnetz")
+
+1. Vergewissern Sie sich, dass am Netzstecker (A) und an der Steckdose, an welcher Sie das Gerät betreiben wollen, keine Beschädigungen sind.
+
+2. Verbinden Sie den Netzstecker (A) mit der Steckdose (B).
+
+    ► Das Gerät ist nun einsatzbereit.
+
+## Bedienung
+
+### Neigung einstellen
 
 ***
 
@@ -282,11 +376,13 @@ Hinweis: Ein deutlich hörbares Einrastgeräusch signalisiert, dass sich der Nei
 
 ![../../../images/media/Neigen_Stand.png](../../../images/media/Neigen_Stand.png)
 
-: Neigung einstellen
+_: Neigung einstellen_
 
 1. Greifen Sie den Ventilator am Griff auf der Oberseite.
 
-2. Neigen Sie den Ventilator, bis er den gewünschten Neigungswinkel erreicht hat.# Einschalten / Geschwindigkeit einstellen
+2. Neigen Sie den Ventilator, bis er den gewünschten Neigungswinkel erreicht hat.
+
+### Einschalten / Geschwindigkeit einstellen
 
 ***
 
@@ -330,7 +426,9 @@ Mit dem Drehknopf 1 steuern Sie die Geschwindigkeit des Lüfterrades.
 
 4. Drehen Sie den Drehknopf ganz nach links (gegen den Uhrzeigersinn), um das Gerät auszuschalten.
 
-    ► Das Gerät ist nun ausgeschaltet und verbraucht keinen Strom mehr.# Schwenkfunktion ein-/ausschalten
+    ► Das Gerät ist nun ausgeschaltet und verbraucht keinen Strom mehr.
+
+### Schwenkfunktion ein-/ausschalten
 
 **Steps:**
 
@@ -340,11 +438,19 @@ Mit dem Drehknopf 1 steuern Sie die Geschwindigkeit des Lüfterrades.
 
 1. Drücken Sie die Taste 1, bis sie hörbar einrastet, und lassen Sie sie dann los, um die Schwenkfunktion einzuschalten
 
-    ► Die Schwenkfunktion ist nun eingeschaltet und die Taste 1 bleibt gedrückt.Die grüne LED leuchtet.
+    ► Die Schwenkfunktion ist nun eingeschaltet und die Taste 1 bleibt gedrückt.
+
+Die grüne LED leuchtet.
 
 2. Drücken Sie die Taste 1 erneut, bis sie hörbar einrastet, und lassen Sie sie dann los, um die Schwenkfunktion auszuschalten
 
-    ► Die Schwenkfunktion ist nun ausgeschaltet und die Taste 1 befindet sich wieder in ihrer Ausgangsposition.Die grüne LED leuchtet nicht.# Rotor reinigen
+    ► Die Schwenkfunktion ist nun ausgeschaltet und die Taste 1 befindet sich wieder in ihrer Ausgangsposition.
+
+Die grüne LED leuchtet nicht.
+
+## Wartung
+
+### Rotor reinigen
 
 ***
 
@@ -370,9 +476,53 @@ Sollten die Flügelräder des Rotors verschmutzt sein, können Sie sie wie folgt
 
 6. Verbinden Sie das Gerät wieder mit dem Stromnetz (siehe Kapitel Inbetriebnahme).
 
-    ► Der Rotor ist nun gereinigt und das Gerät ist wieder betriebsbereit.# Manuelle Fehlerbehebung
+    ► Der Rotor ist nun gereinigt und das Gerät ist wieder betriebsbereit.
 
-Im Folgenden sind häufige Probleme mit möglichen Ursachen und den durchzuführenden Maßnahmen aufgelistet.# Stromzufuhr prüfen
+## Fehlerbehebung
+
+### Manuelle Fehlerbehebung
+
+Im Folgenden sind häufige Probleme mit möglichen Ursachen und den durchzuführenden Maßnahmen aufgelistet.
+
+#### Der Rotor dreht sich nicht, obwohl das Gerät eingeschaltet ist.
+
+**FAULT:**
+
+**Der Rotor dreht sich nicht, obwohl das Gerät eingeschaltet ist.**
+
+**SOLUTION:**
+
+**Cause:**
+
+Der Elektromotor des Rotors ist defekt.
+
+**Remedy:**
+
+Wenn die Gewährleistungsfrist noch besteht, wenden Sie sich an Ihren Händler
+
+oder lesen Sie im Kapitel 7.5 nach, wie Sie den Elektromotor selbst tauschen
+
+#### Das Gerät lässt sich nicht einschalten.
+
+**FAULT:**
+
+**Das Gerät lässt sich nicht einschalten.**
+
+**SOLUTION:**
+
+**Cause:**
+
+- Der Netzstecker nicht vollständig in die Steckdose gesteckt.
+
+- Die Steckdosenleiste nicht eingeschaltet oder nicht an Steckdose eingesteckt.
+
+- Die Steckdose ist defekt
+
+**Remedy:**
+
+Siehe Kapitel 7.3
+
+### Stromzufuhr prüfen
 
 **Steps:**
 
@@ -382,7 +532,9 @@ Im Folgenden sind häufige Probleme mit möglichen Ursachen und den durchzuführ
 
 2. Falls Sie das Gerät an einer Steckdosenleiste oder einem Verlängerungskabel betreiben, vergewissern Sie sich, dass die Steckdosenleiste oder das Verlängerungskabel vollständig in die Steckdose gesteckt wurde und eingeschaltet ist
 
-3. Stecken Sie ein anderes Elektrogerät an die verwendete Steckdose und schalten Sie es testweise ein, um die Funktion der Steckdose zu prüfen# Schwenkbereich freiräumen
+3. Stecken Sie ein anderes Elektrogerät an die verwendete Steckdose und schalten Sie es testweise ein, um die Funktion der Steckdose zu prüfen
+
+### Schwenkbereich freiräumen
 
 ***
 
@@ -410,7 +562,9 @@ Führen Sie im Falle einer Störung der Schwenkfunktion bitte folgende Schritte 
 
 3. Sollten keine Gegenstände das Gerät berühren, prüfen Sie die Stromzufuhr.
 
-4. Sollten Sie nach Durchführung der oben genannten Schritte immer noch Probleme mit der Schwenkfunktion haben, wenden Sie sich bitte an Ihren Händler.# Elektromotor tauschen
+4. Sollten Sie nach Durchführung der oben genannten Schritte immer noch Probleme mit der Schwenkfunktion haben, wenden Sie sich bitte an Ihren Händler.
+
+### Elektromotor tauschen
 
 ***
 
@@ -426,7 +580,7 @@ Das Gerät verwendet den Elektromotor ABC-123 und darf nur mit diesem betrieben 
 
 ![../../../images/media/Tisch_Reparatur_E_Motor.png](../../../images/media/Tisch_Reparatur_E_Motor.png)
 
-: Gehäuseabdeckung entfernen
+_: Gehäuseabdeckung entfernen_
 
 1. Trennen Sie das Gerät vom Stromnetz
 
@@ -443,3 +597,111 @@ Das Gerät verwendet den Elektromotor ABC-123 und darf nur mit diesem betrieben 
 7. Ziehen Sie alle Schrauben an der Rückseite des Ventilatorkopfes handfest an
 
     ► Sie haben den Elektromotor nun ausgetauscht und können das Gerät wieder in Betrieb nehmen (siehe Kapitel 4)
+
+## Kontaktdaten
+
+**Unsere Website:**
+
+[www.pi-fan.de](http://www.pi-fan.de)
+
+[www.pi-class.i4icm.de](http://www.pi-class.i4icm.de)
+
+**Copyright:**
+
+Copyright (c) 2015, the  PI-Fan Project by STZ I4ICM
+
+Contributors to the PI-Fan Project (1.0):
+
+W. Ziegler
+
+Contributors to the PI-Fan Project (1.1):
+
+R. Gruenert, W. Ziegler
+
+
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+
+of this software and associated documentation files (the "Software"), to deal
+
+in the Software without restriction, including without limitation the rights
+
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+
+copies of the Software, and to permit persons to whom the Software is
+
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+
+THE SOFTWARE.
+
+## Entsorgung
+
+Das Gerät unterliegt den Entsorgungsbestimmungen für Elektrogeräte. Für die Entsorgung des Geräts stehen Ihnen zwei Optionen zur Verfügung:
+
+**Option 1**
+
+Entsorgen Sie die Bestandteile des Geräts selbst in den dafür vorgesehenen Behältern.
+
+<table>
+    <tr>
+        <td>
+**Bauteil / Baugruppe**
+</td>
+        <td>
+**Vorgesehener Behälter**
+</td>
+    </tr>
+    <tr>
+        <td>
+Metallteile
+</td>
+        <td>
+Sondermüll
+</td>
+    </tr>
+    <tr>
+        <td>
+Kunststoffteile
+</td>
+        <td>
+Recyclingbehälter
+</td>
+    </tr>
+    <tr>
+        <td>
+Folieverpackung
+</td>
+        <td>
+Recyclingbehälter
+</td>
+    </tr>
+    <tr>
+        <td>
+Kartonverpackung
+</td>
+        <td>
+Papier-Mülltonne
+</td>
+    </tr>
+</table>
+
+
+**Option 2**
+
+Geben Sie das Gerät bei Ihrem Elektrofachhändler oder Ihrer kommunalen Übergabestelle für Elektrogeräte ab. Diese sind nach Elektro- und Elektronikgeräte-Gesetz (ElektroG) dazu verpflichtet, Elektro(klein)geräte entgegenzunehmen.

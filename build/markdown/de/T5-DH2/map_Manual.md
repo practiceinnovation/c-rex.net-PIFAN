@@ -1,4 +1,84 @@
-﻿# Manual# Bestimmungsgemäße Verwendung
+﻿# Manual
+
+## Allgemeine Sicherheitshinweise
+
+**Beachten Sie beim Umgang mit dem Gerät die folgenden Sicherheitshinweise.**
+
+<table>
+    <tr>
+        <td>
+
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)</td>
+        <td>
+
+
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Warnung!
+</td>
+    </tr>
+    <tr>
+        <td>
+Stromschlag-Gefahr
+</td>
+    </tr>
+    <tr>
+        <td>
+Schützen Sie das Gerät vor Feuchtigkeit und Niederschlag!
+
+Nehmen Sie am Gerät nur Veränderungen vor, die ausdrücklich in der Bedienungsanleitung beschrieben sind!
+</td>
+    </tr>
+</table>
+
+
+<table>
+    <tr>
+        <td>
+
+![../../../images/media/Brand.wmf](../../../images/media/Brand.wmf)</td>
+        <td>
+
+
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Warnung!
+</td>
+    </tr>
+    <tr>
+        <td>
+Brandgefahr
+</td>
+    </tr>
+    <tr>
+        <td>
+Halten Sie das Gerät während des Betriebs von leicht entzündlichen Stoffen fern!
+</td>
+    </tr>
+</table>
+
+
+<table>
+    <tr>
+        <td>
+
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)</td>
+        <td>
+Hinweis
+</td>
+    </tr>
+    <tr>
+        <td>
+Transportschäden
+</td>
+    </tr>
+    <tr>
+        <td>
+Verwenden Sie für den Transport über große Distanzen die vollständige mitgelieferte Verpackung, um Transportschäden am Gerät zu vermeiden!
+</td>
+    </tr>
+</table>
+
+
+## Produktbeschreibung
+
+### Bestimmungsgemäße Verwendung
 
 Nutzen Sie das Gerät nur für die bestimmungsgemäße Verwendung und unter Beachtung der Sicherheitsvorkehrungen, welche in der Bedienungsanleitung beschrieben sind, um Gefährdungen für Personen und Schäden an Gegenständen zu vermeiden.
 
@@ -14,7 +94,9 @@ Die bestimmungsgemäße Verwendung umfasst:
 
 - Für den Transport innerhalb von Räumen muss die Tragevorrichtung am Gerät verwendet werden.
 
-- Während des Betriebs muss das Gerät auf seinem Standfuß stehen.# Vorhersehbarer Fehlgebrauch
+- Während des Betriebs muss das Gerät auf seinem Standfuß stehen.
+
+### Vorhersehbarer Fehlgebrauch
 
 Beachten Sie nachfolgende Hinweise, um einen vorhersehbaren Fehlgebrauch zu vermeiden:
 
@@ -32,7 +114,9 @@ Beachten Sie nachfolgende Hinweise, um einen vorhersehbaren Fehlgebrauch zu verm
 
 - Nutzen Sie das Gerät nicht zum Erwärmen von Gegenständen.
 
-- Stellen Sie das Gerät zum Erwärmen der Raumluft in einem Mindestabstand von 2 Metern zu Personen und Gegenständen auf und schalten Sie die Schwenkfunktion ein (siehe Kapitel 5.1).# Technische Daten
+- Stellen Sie das Gerät zum Erwärmen der Raumluft in einem Mindestabstand von 2 Metern zu Personen und Gegenständen auf und schalten Sie die Schwenkfunktion ein (siehe Kapitel 5.1).
+
+### Technische Daten
 
 <table>
     <tr>
@@ -204,7 +288,11 @@ II
 </td>
     </tr>
 </table>
-# Rotor montieren
+
+
+## Montage
+
+### Rotor montieren
 
 Sicherheitshinweise
 
@@ -222,7 +310,7 @@ Sicherheitshinweise
 
 
 
-: Schutzgitter-Rückseite montieren
+_: Schutzgitter-Rückseite montieren_
 
 ![: Schutzgitter-Rückseite montieren](../../../images/media/Stand_1_Schutzgitter_Num_3_1.png ": Schutzgitter-Rückseite montieren")
 
@@ -232,7 +320,7 @@ Sicherheitshinweise
 
     ► Die Schutzgitterrückseite ist nun montiert.
 
-: Rotor montieren
+_: Rotor montieren_
 
 ![: Rotor montieren](../../../images/media/Stand_2_Rotor_Num.png ": Rotor montieren")
 
@@ -242,7 +330,7 @@ Sicherheitshinweise
 
     ► Der Rotor ist nun montiert.
 
-: Schutzgitter-Vorderseite montieren
+_: Schutzgitter-Vorderseite montieren_
 
 ![: Schutzgitter-Vorderseite montieren](../../../images/media/Stand_3_Schutzgitter_Vorderseite_Num.png ": Schutzgitter-Vorderseite montieren")
 
@@ -254,9 +342,39 @@ Sicherheitshinweise
 
 ► 
 
-: Rotor montiert
+_: Rotor montiert_
 
-![: Rotor montiert](../../../images/media/Montage_Stand_Ventilatorkopf_Fertig.png ": Rotor montiert")Sie haben den Rotor und das Schutzgitter nun fertig montiert.# Neigung einstellen
+![: Rotor montiert](../../../images/media/Montage_Stand_Ventilatorkopf_Fertig.png ": Rotor montiert")
+
+Sie haben den Rotor und das Schutzgitter nun fertig montiert.
+
+## Inbetriebnahme
+
+***
+
+**Note:**
+
+Das Gerät wird mit einer Netzspannung von 230V Wechselstrom betrieben. Schließen Sie das Gerät wie im Folgenden beschrieben an das Stromnetz an.
+
+***
+
+**Steps:**
+
+
+
+_: Anschluss an das Stromnetz_
+
+![: Anschluss an das Stromnetz](../../../images/media/Steckdose.png ": Anschluss an das Stromnetz")
+
+1. Vergewissern Sie sich, dass am Netzstecker (A) und an der Steckdose, an welcher Sie das Gerät betreiben wollen, keine Beschädigungen sind.
+
+2. Verbinden Sie den Netzstecker (A) mit der Steckdose (B).
+
+    ► Das Gerät ist nun einsatzbereit.
+
+## Bedienung
+
+### Neigung einstellen
 
 ***
 
@@ -288,11 +406,13 @@ Hinweis: Ein deutlich hörbares Einrastgeräusch signalisiert, dass sich der Nei
 
 ![../../../images/media/Neigen_Stand.png](../../../images/media/Neigen_Stand.png)
 
-: Neigung einstellen
+_: Neigung einstellen_
 
 1. Greifen Sie den Ventilator am Griff auf der Oberseite.
 
-2. Neigen Sie den Ventilator, bis er den gewünschten Neigungswinkel erreicht hat.# Einschalten / Geschwindigkeit einstellen
+2. Neigen Sie den Ventilator, bis er den gewünschten Neigungswinkel erreicht hat.
+
+### Einschalten / Geschwindigkeit einstellen
 
 ***
 
@@ -352,7 +472,9 @@ Mit dem Drehknopf 1 steuern Sie die Geschwindigkeit des Lüfterrades.
 
 4. Drehen Sie den Drehknopf ganz nach links (gegen den Uhrzeigersinn), um das Gerät auszuschalten.
 
-    ► Das Gerät ist nun ausgeschaltet und verbraucht keinen Strom mehr.# Schwenkfunktion ein-/ausschalten
+    ► Das Gerät ist nun ausgeschaltet und verbraucht keinen Strom mehr.
+
+### Schwenkfunktion ein-/ausschalten
 
 **Steps:**
 
@@ -362,11 +484,17 @@ Mit dem Drehknopf 1 steuern Sie die Geschwindigkeit des Lüfterrades.
 
 1. Drücken Sie die Taste 1, bis sie hörbar einrastet, und lassen Sie sie dann los, um die Schwenkfunktion einzuschalten
 
-    ► Die Schwenkfunktion ist nun eingeschaltet und die Taste 1 bleibt gedrückt.Die grüne LED leuchtet.
+    ► Die Schwenkfunktion ist nun eingeschaltet und die Taste 1 bleibt gedrückt.
+
+Die grüne LED leuchtet.
 
 2. Drücken Sie die Taste 1 erneut, bis sie hörbar einrastet, und lassen Sie sie dann los, um die Schwenkfunktion auszuschalten
 
-    ► Die Schwenkfunktion ist nun ausgeschaltet und die Taste 1 befindet sich wieder in ihrer Ausgangsposition.Die grüne LED leuchtet nicht.# Heizung ein-/ausschalten
+    ► Die Schwenkfunktion ist nun ausgeschaltet und die Taste 1 befindet sich wieder in ihrer Ausgangsposition.
+
+Die grüne LED leuchtet nicht.
+
+### Heizung ein-/ausschalten
 
 **Steps:**
 
@@ -376,15 +504,23 @@ Mit dem Drehknopf 1 steuern Sie die Geschwindigkeit des Lüfterrades.
 
 1. Schieben Sie den Schieberegler 1 nach links, um die Heizung auf niedriger Stufe einzuschalten
 
-    ► Die Heizung ist nun auf niedriger Stufe eingeschaltet.Die einzelne rote LED leuchtet.
+    ► Die Heizung ist nun auf niedriger Stufe eingeschaltet.
+
+Die einzelne rote LED leuchtet.
 
 2. Schieben Sie den Schieberegler 1 nach rechts, um die Heizung auf hoher Stufe einzuschalten
 
-    ► Die Heizung ist nun auf hoher Stufe eingeschaltet.Die doppelten roten LEDs leuchten.
+    ► Die Heizung ist nun auf hoher Stufe eingeschaltet.
+
+Die doppelten roten LEDs leuchten.
 
 3. Schieben Sie den Schieberegler 1 in die Mitte, um die Heizung auszuschalten
 
-    ► Die Heizung ist nun ausgeschaltet.Keine der roten LEDs leuchtet.# Display
+    ► Die Heizung ist nun ausgeschaltet.
+
+Keine der roten LEDs leuchtet.
+
+### Display
 
 Das Gerät verfügt über ein Display 1, welches Ihnen die Raumtemperatur in °C anzeigt. Außerdem zeigt das Display alle elektronisch erfassbaren Probleme am Gerät durch Fehlercodes an (siehe Kapitel 7.1).
 
@@ -402,7 +538,11 @@ Das Gerät verfügt über ein Display 1, welches Ihnen die Raumtemperatur in °C
 </td>
     </tr>
 </table>
-# Rotor reinigen
+
+
+## Wartung
+
+### Rotor reinigen
 
 ***
 
@@ -428,13 +568,105 @@ Sollten die Flügelräder des Rotors verschmutzt sein, können Sie sie wie folgt
 
 6. Verbinden Sie das Gerät wieder mit dem Stromnetz (siehe Kapitel Inbetriebnahme).
 
-    ► Der Rotor ist nun gereinigt und das Gerät ist wieder betriebsbereit.# Fehlercodes am Display
+    ► Der Rotor ist nun gereinigt und das Gerät ist wieder betriebsbereit.
 
-Im Fall von elektronisch erfassbaren Komplikationen werden auf dem Display Fehlercodes angezeigt. Nachfolgend werden diese Fehlercodes mit den möglichen Ursachen und den durchzuführenden Maßnahmen aufgelistet.# Manuelle Fehlerbehebung
+## Fehlerbehebung
+
+### Fehlercodes am Display
+
+Im Fall von elektronisch erfassbaren Komplikationen werden auf dem Display Fehlercodes angezeigt. Nachfolgend werden diese Fehlercodes mit den möglichen Ursachen und den durchzuführenden Maßnahmen aufgelistet.
+
+#### 2X222
+
+**FAULT:**
+
+**2X222**
+
+**SOLUTION:**
+
+**Cause:**
+
+Stellmotor blockiert
+
+**Remedy:**
+
+Siehe Kapitel 7.3
+
+#### 3X333
+
+**FAULT:**
+
+**3X333**
+
+**SOLUTION:**
+
+**Cause:**
+
+Heizelement defekt
+
+**Remedy:**
+
+Lassen Sie den Rotor auswechseln
+
+#### 4X444
+
+**FAULT:**
+
+**4X444**
+
+**SOLUTION:**
+
+**Cause:**
+
+Getriebe beschädigt
+
+**Remedy:**
+
+Lassen Sie das Getriebe auswechseln
+
+#### 1X111
+
+**FAULT:**
+
+**1X111**
+
+**SOLUTION:**
+
+**Cause:**
+
+Steuerung defekt
+
+**Remedy:**
+
+Lassen Sie das Bedienteil auswechseln
+
+### Manuelle Fehlerbehebung
 
 Nicht alle Probleme sind elektronisch erfassbar.
 
-Im Folgenden sind häufige Probleme mit möglichen Ursachen und den durchzuführenden Maßnahmen aufgelistet.# Stromzufuhr prüfen
+Im Folgenden sind häufige Probleme mit möglichen Ursachen und den durchzuführenden Maßnahmen aufgelistet.
+
+#### Das Gerät lässt sich nicht einschalten.
+
+**FAULT:**
+
+**Das Gerät lässt sich nicht einschalten.**
+
+**SOLUTION:**
+
+**Cause:**
+
+- Der Netzstecker nicht vollständig in die Steckdose gesteckt.
+
+- Die Steckdosenleiste nicht eingeschaltet oder nicht an Steckdose eingesteckt.
+
+- Die Steckdose ist defekt
+
+**Remedy:**
+
+Siehe Kapitel 7.3
+
+### Stromzufuhr prüfen
 
 **Steps:**
 
@@ -444,7 +676,9 @@ Im Folgenden sind häufige Probleme mit möglichen Ursachen und den durchzuführ
 
 2. Falls Sie das Gerät an einer Steckdosenleiste oder einem Verlängerungskabel betreiben, vergewissern Sie sich, dass die Steckdosenleiste oder das Verlängerungskabel vollständig in die Steckdose gesteckt wurde und eingeschaltet ist
 
-3. Stecken Sie ein anderes Elektrogerät an die verwendete Steckdose und schalten Sie es testweise ein, um die Funktion der Steckdose zu prüfen# Schwenkbereich freiräumen
+3. Stecken Sie ein anderes Elektrogerät an die verwendete Steckdose und schalten Sie es testweise ein, um die Funktion der Steckdose zu prüfen
+
+### Schwenkbereich freiräumen
 
 ***
 
@@ -473,3 +707,111 @@ Führen Sie im Falle einer Störung der Schwenkfunktion bitte folgende Schritte 
 3. Sollten keine Gegenstände das Gerät berühren, prüfen Sie die Stromzufuhr.
 
 4. Sollten Sie nach Durchführung der oben genannten Schritte immer noch Probleme mit der Schwenkfunktion haben, wenden Sie sich bitte an Ihren Händler.
+
+## Kontaktdaten
+
+**Unsere Website:**
+
+[www.pi-fan.de](http://www.pi-fan.de)
+
+[www.pi-class.i4icm.de](http://www.pi-class.i4icm.de)
+
+**Copyright:**
+
+Copyright (c) 2015, the  PI-Fan Project by STZ I4ICM
+
+Contributors to the PI-Fan Project (1.0):
+
+W. Ziegler
+
+Contributors to the PI-Fan Project (1.1):
+
+R. Gruenert, W. Ziegler
+
+
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+
+of this software and associated documentation files (the "Software"), to deal
+
+in the Software without restriction, including without limitation the rights
+
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+
+copies of the Software, and to permit persons to whom the Software is
+
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+
+THE SOFTWARE.
+
+## Entsorgung
+
+Das Gerät unterliegt den Entsorgungsbestimmungen für Elektrogeräte. Für die Entsorgung des Geräts stehen Ihnen zwei Optionen zur Verfügung:
+
+**Option 1**
+
+Entsorgen Sie die Bestandteile des Geräts selbst in den dafür vorgesehenen Behältern.
+
+<table>
+    <tr>
+        <td>
+**Bauteil / Baugruppe**
+</td>
+        <td>
+**Vorgesehener Behälter**
+</td>
+    </tr>
+    <tr>
+        <td>
+Metallteile
+</td>
+        <td>
+Sondermüll
+</td>
+    </tr>
+    <tr>
+        <td>
+Kunststoffteile
+</td>
+        <td>
+Recyclingbehälter
+</td>
+    </tr>
+    <tr>
+        <td>
+Folieverpackung
+</td>
+        <td>
+Recyclingbehälter
+</td>
+    </tr>
+    <tr>
+        <td>
+Kartonverpackung
+</td>
+        <td>
+Papier-Mülltonne
+</td>
+    </tr>
+</table>
+
+
+**Option 2**
+
+Geben Sie das Gerät bei Ihrem Elektrofachhändler oder Ihrer kommunalen Übergabestelle für Elektrogeräte ab. Diese sind nach Elektro- und Elektronikgeräte-Gesetz (ElektroG) dazu verpflichtet, Elektro(klein)geräte entgegenzunehmen.

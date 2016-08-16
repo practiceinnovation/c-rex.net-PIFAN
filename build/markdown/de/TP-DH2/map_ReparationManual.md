@@ -1,4 +1,60 @@
-﻿# ReparationManual# Bestimmungsgemäße Verwendung
+﻿# ReparationManual
+
+## Allgemeine Sicherheitshinweise
+
+**Beachten Sie beim Umgang mit dem Gerät die folgenden Sicherheitshinweise.**
+
+<table>
+    <tr>
+        <td>
+
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)</td>
+        <td>
+
+
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Warnung!
+</td>
+    </tr>
+    <tr>
+        <td>
+Stromschlag-Gefahr
+</td>
+    </tr>
+    <tr>
+        <td>
+Schützen Sie das Gerät vor Feuchtigkeit und Niederschlag!
+
+Nehmen Sie am Gerät nur Veränderungen vor, die ausdrücklich in der Bedienungsanleitung beschrieben sind!
+</td>
+    </tr>
+</table>
+
+
+<table>
+    <tr>
+        <td>
+
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)</td>
+        <td>
+Hinweis
+</td>
+    </tr>
+    <tr>
+        <td>
+Transportschäden
+</td>
+    </tr>
+    <tr>
+        <td>
+Verwenden Sie für den Transport über große Distanzen die vollständige mitgelieferte Verpackung, um Transportschäden am Gerät zu vermeiden!
+</td>
+    </tr>
+</table>
+
+
+## Produktbeschreibung
+
+### Bestimmungsgemäße Verwendung
 
 Nutzen Sie das Gerät nur für die bestimmungsgemäße Verwendung und unter Beachtung der Sicherheitsvorkehrungen, welche in der Bedienungsanleitung beschrieben sind, um Gefährdungen für Personen und Schäden an Gegenständen zu vermeiden.
 
@@ -14,7 +70,9 @@ Die bestimmungsgemäße Verwendung umfasst:
 
 - Für den Transport innerhalb von Räumen muss die Tragevorrichtung am Gerät verwendet werden.
 
-- Während des Betriebs muss das Gerät auf seinem Standfuß stehen.# Vorhersehbarer Fehlgebrauch
+- Während des Betriebs muss das Gerät auf seinem Standfuß stehen.
+
+### Vorhersehbarer Fehlgebrauch
 
 Beachten Sie nachfolgende Hinweise, um einen vorhersehbaren Fehlgebrauch zu vermeiden:
 
@@ -32,7 +90,9 @@ Beachten Sie nachfolgende Hinweise, um einen vorhersehbaren Fehlgebrauch zu verm
 
 - Nutzen Sie das Gerät nicht zum Erwärmen von Gegenständen.
 
-- Stellen Sie das Gerät zum Erwärmen der Raumluft in einem Mindestabstand von 2 Metern zu Personen und Gegenständen auf und schalten Sie die Schwenkfunktion ein (siehe Kapitel 5.1).# Technische Daten
+- Stellen Sie das Gerät zum Erwärmen der Raumluft in einem Mindestabstand von 2 Metern zu Personen und Gegenständen auf und schalten Sie die Schwenkfunktion ein (siehe Kapitel 5.1).
+
+### Technische Daten
 
 <table>
     <tr>
@@ -204,7 +264,11 @@ II
 </td>
     </tr>
 </table>
-# Rotor montieren
+
+
+## Montage
+
+### Rotor montieren
 
 Sicherheitshinweise
 
@@ -222,7 +286,7 @@ Sicherheitshinweise
 
 
 
-: Schutzgitter-Rückseite montieren
+_: Schutzgitter-Rückseite montieren_
 
 ![: Schutzgitter-Rückseite montieren](../../../images/media/Stand_1_Schutzgitter_Num_3_1.png ": Schutzgitter-Rückseite montieren")
 
@@ -232,7 +296,7 @@ Sicherheitshinweise
 
     ► Die Schutzgitterrückseite ist nun montiert.
 
-: Rotor montieren
+_: Rotor montieren_
 
 ![: Rotor montieren](../../../images/media/Stand_2_Rotor_Num.png ": Rotor montieren")
 
@@ -242,7 +306,7 @@ Sicherheitshinweise
 
     ► Der Rotor ist nun montiert.
 
-: Schutzgitter-Vorderseite montieren
+_: Schutzgitter-Vorderseite montieren_
 
 ![: Schutzgitter-Vorderseite montieren](../../../images/media/Stand_3_Schutzgitter_Vorderseite_Num.png ": Schutzgitter-Vorderseite montieren")
 
@@ -254,9 +318,15 @@ Sicherheitshinweise
 
 ► 
 
-: Rotor montiert
+_: Rotor montiert_
 
-![: Rotor montiert](../../../images/media/Montage_Stand_Ventilatorkopf_Fertig.png ": Rotor montiert")Sie haben den Rotor und das Schutzgitter nun fertig montiert.# Rotor reinigen
+![: Rotor montiert](../../../images/media/Montage_Stand_Ventilatorkopf_Fertig.png ": Rotor montiert")
+
+Sie haben den Rotor und das Schutzgitter nun fertig montiert.
+
+## Wartung
+
+### Rotor reinigen
 
 ***
 
@@ -282,13 +352,107 @@ Sollten die Flügelräder des Rotors verschmutzt sein, können Sie sie wie folgt
 
 6. Verbinden Sie das Gerät wieder mit dem Stromnetz (siehe Kapitel Inbetriebnahme).
 
-    ► Der Rotor ist nun gereinigt und das Gerät ist wieder betriebsbereit.# Fehlercodes am Display
+    ► Der Rotor ist nun gereinigt und das Gerät ist wieder betriebsbereit.
 
-Im Fall von elektronisch erfassbaren Komplikationen werden auf dem Display Fehlercodes angezeigt. Nachfolgend werden diese Fehlercodes mit den möglichen Ursachen und den durchzuführenden Maßnahmen aufgelistet.# Manuelle Fehlerbehebung
+## Fehlerbehebung
+
+### Fehlercodes am Display
+
+Im Fall von elektronisch erfassbaren Komplikationen werden auf dem Display Fehlercodes angezeigt. Nachfolgend werden diese Fehlercodes mit den möglichen Ursachen und den durchzuführenden Maßnahmen aufgelistet.
+
+#### 2X222
+
+**FAULT:**
+
+**2X222**
+
+**SOLUTION:**
+
+**Cause:**
+
+Stellmotor blockiert
+
+**Remedy:**
+
+Siehe Kapitel 7.3
+
+#### 3X333
+
+**FAULT:**
+
+**3X333**
+
+**SOLUTION:**
+
+**Cause:**
+
+Heizelement defekt
+
+**Remedy:**
+
+Lassen Sie den Rotor auswechseln
+
+#### 5X555
+
+**FAULT:**
+
+**5X555**
+
+**SOLUTION:**
+
+**Cause:**
+
+Elektromotor defekt
+
+**Remedy:**
+
+Lassen Sie den Elektromotor auswechseln
+
+oder wechseln Sie den Elektromotor selbst aus (siehe Kapitel 7.4)
+
+#### 1X111
+
+**FAULT:**
+
+**1X111**
+
+**SOLUTION:**
+
+**Cause:**
+
+Steuerung defekt
+
+**Remedy:**
+
+Lassen Sie das Bedienteil auswechseln
+
+### Manuelle Fehlerbehebung
 
 Nicht alle Probleme sind elektronisch erfassbar.
 
-Im Folgenden sind häufige Probleme mit möglichen Ursachen und den durchzuführenden Maßnahmen aufgelistet.# Stromzufuhr prüfen
+Im Folgenden sind häufige Probleme mit möglichen Ursachen und den durchzuführenden Maßnahmen aufgelistet.
+
+#### Das Gerät lässt sich nicht einschalten.
+
+**FAULT:**
+
+**Das Gerät lässt sich nicht einschalten.**
+
+**SOLUTION:**
+
+**Cause:**
+
+- Der Netzstecker nicht vollständig in die Steckdose gesteckt.
+
+- Die Steckdosenleiste nicht eingeschaltet oder nicht an Steckdose eingesteckt.
+
+- Die Steckdose ist defekt
+
+**Remedy:**
+
+Siehe Kapitel 7.3
+
+### Stromzufuhr prüfen
 
 **Steps:**
 
@@ -298,7 +462,9 @@ Im Folgenden sind häufige Probleme mit möglichen Ursachen und den durchzuführ
 
 2. Falls Sie das Gerät an einer Steckdosenleiste oder einem Verlängerungskabel betreiben, vergewissern Sie sich, dass die Steckdosenleiste oder das Verlängerungskabel vollständig in die Steckdose gesteckt wurde und eingeschaltet ist
 
-3. Stecken Sie ein anderes Elektrogerät an die verwendete Steckdose und schalten Sie es testweise ein, um die Funktion der Steckdose zu prüfen# Schwenkbereich freiräumen
+3. Stecken Sie ein anderes Elektrogerät an die verwendete Steckdose und schalten Sie es testweise ein, um die Funktion der Steckdose zu prüfen
+
+### Schwenkbereich freiräumen
 
 ***
 
@@ -326,7 +492,9 @@ Führen Sie im Falle einer Störung der Schwenkfunktion bitte folgende Schritte 
 
 3. Sollten keine Gegenstände das Gerät berühren, prüfen Sie die Stromzufuhr.
 
-4. Sollten Sie nach Durchführung der oben genannten Schritte immer noch Probleme mit der Schwenkfunktion haben, wenden Sie sich bitte an Ihren Händler.# Elektromotor tauschen
+4. Sollten Sie nach Durchführung der oben genannten Schritte immer noch Probleme mit der Schwenkfunktion haben, wenden Sie sich bitte an Ihren Händler.
+
+### Elektromotor tauschen
 
 ***
 
@@ -342,7 +510,7 @@ Das Gerät verwendet den Elektromotor ABC-123 und darf nur mit diesem betrieben 
 
 ![../../../images/media/Tisch_Reparatur_E_Motor.png](../../../images/media/Tisch_Reparatur_E_Motor.png)
 
-: Gehäuseabdeckung entfernen
+_: Gehäuseabdeckung entfernen_
 
 1. Trennen Sie das Gerät vom Stromnetz
 

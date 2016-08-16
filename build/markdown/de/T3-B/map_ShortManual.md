@@ -1,4 +1,60 @@
-﻿# ShortManual# Bestimmungsgemäße Verwendung
+﻿# ShortManual
+
+## Allgemeine Sicherheitshinweise
+
+**Beachten Sie beim Umgang mit dem Gerät die folgenden Sicherheitshinweise.**
+
+<table>
+    <tr>
+        <td>
+
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)</td>
+        <td>
+
+
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Warnung!
+</td>
+    </tr>
+    <tr>
+        <td>
+Stromschlag-Gefahr
+</td>
+    </tr>
+    <tr>
+        <td>
+Schützen Sie das Gerät vor Feuchtigkeit und Niederschlag!
+
+Nehmen Sie am Gerät nur Veränderungen vor, die ausdrücklich in der Bedienungsanleitung beschrieben sind!
+</td>
+    </tr>
+</table>
+
+
+<table>
+    <tr>
+        <td>
+
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)</td>
+        <td>
+Hinweis
+</td>
+    </tr>
+    <tr>
+        <td>
+Transportschäden
+</td>
+    </tr>
+    <tr>
+        <td>
+Verwenden Sie für den Transport über große Distanzen die vollständige mitgelieferte Verpackung, um Transportschäden am Gerät zu vermeiden!
+</td>
+    </tr>
+</table>
+
+
+## Produktbeschreibung
+
+### Bestimmungsgemäße Verwendung
 
 Nutzen Sie das Gerät nur für die bestimmungsgemäße Verwendung und unter Beachtung der Sicherheitsvorkehrungen, welche in der Bedienungsanleitung beschrieben sind, um Gefährdungen für Personen und Schäden an Gegenständen zu vermeiden.
 
@@ -12,7 +68,9 @@ Die bestimmungsgemäße Verwendung umfasst:
 
 - Für den Transport innerhalb von Räumen muss die Tragevorrichtung am Gerät verwendet werden.
 
-- Während des Betriebs muss das Gerät auf seinem Standfuß stehen.# Vorhersehbarer Fehlgebrauch
+- Während des Betriebs muss das Gerät auf seinem Standfuß stehen.
+
+### Vorhersehbarer Fehlgebrauch
 
 Beachten Sie nachfolgende Hinweise, um einen vorhersehbaren Fehlgebrauch zu vermeiden:
 
@@ -26,7 +84,9 @@ Beachten Sie nachfolgende Hinweise, um einen vorhersehbaren Fehlgebrauch zu verm
 
 - Stecken Sie keine Gegenstände oder Körperteile durch das Schutzgitter, während das Gerät mit dem Stromnetz verbunden ist.
 
-- Verwenden Sie das Gerät nur bei einer Luftfeuchtigkeit von höchstens 65%.# Technische Daten
+- Verwenden Sie das Gerät nur bei einer Luftfeuchtigkeit von höchstens 65%.
+
+### Technische Daten
 
 <table>
     <tr>
@@ -198,7 +258,11 @@ II
 </td>
     </tr>
 </table>
-# Neigung einstellen
+
+
+## Bedienung
+
+### Neigung einstellen
 
 ***
 
@@ -230,11 +294,13 @@ Hinweis: Ein deutlich hörbares Einrastgeräusch signalisiert, dass sich der Nei
 
 ![../../../images/media/Neigen_Stand.png](../../../images/media/Neigen_Stand.png)
 
-: Neigung einstellen
+_: Neigung einstellen_
 
 1. Greifen Sie den Ventilator am Griff auf der Oberseite.
 
-2. Neigen Sie den Ventilator, bis er den gewünschten Neigungswinkel erreicht hat.# Einschalten / Geschwindigkeit einstellen
+2. Neigen Sie den Ventilator, bis er den gewünschten Neigungswinkel erreicht hat.
+
+### Einschalten / Geschwindigkeit einstellen
 
 ***
 
@@ -294,7 +360,9 @@ Mit dem Drehknopf 1 steuern Sie die Geschwindigkeit des Lüfterrades.
 
 4. Drehen Sie den Drehknopf ganz nach links (gegen den Uhrzeigersinn), um das Gerät auszuschalten.
 
-    ► Das Gerät ist nun ausgeschaltet und verbraucht keinen Strom mehr.# Schwenkfunktion ein-/ausschalten
+    ► Das Gerät ist nun ausgeschaltet und verbraucht keinen Strom mehr.
+
+### Schwenkfunktion ein-/ausschalten
 
 **Steps:**
 
@@ -304,8 +372,12 @@ Mit dem Drehknopf 1 steuern Sie die Geschwindigkeit des Lüfterrades.
 
 1. Drücken Sie die Taste 1, bis sie hörbar einrastet, und lassen Sie sie dann los, um die Schwenkfunktion einzuschalten
 
-    ► Die Schwenkfunktion ist nun eingeschaltet und die Taste 1 bleibt gedrückt.Die grüne LED leuchtet.
+    ► Die Schwenkfunktion ist nun eingeschaltet und die Taste 1 bleibt gedrückt.
+
+Die grüne LED leuchtet.
 
 2. Drücken Sie die Taste 1 erneut, bis sie hörbar einrastet, und lassen Sie sie dann los, um die Schwenkfunktion auszuschalten
 
-    ► Die Schwenkfunktion ist nun ausgeschaltet und die Taste 1 befindet sich wieder in ihrer Ausgangsposition.Die grüne LED leuchtet nicht.
+    ► Die Schwenkfunktion ist nun ausgeschaltet und die Taste 1 befindet sich wieder in ihrer Ausgangsposition.
+
+Die grüne LED leuchtet nicht.
