@@ -6,16 +6,19 @@
 
 
 |![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)|![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Warnung! |
+|---|---|
 |Stromschlag-Gefahr |
 |Schützen Sie das Gerät vor Feuchtigkeit und Niederschlag! Nehmen Sie am Gerät nur Veränderungen vor, die ausdrücklich in der Bedienungsanleitung beschrieben sind! |
 
 
 |![../../../images/media/Brand.wmf](../../../images/media/Brand.wmf)|![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Warnung! |
+|---|---|
 |Brandgefahr |
 |Halten Sie das Gerät während des Betriebs von leicht entzündlichen Stoffen fern! |
 
 
 |![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)|Hinweis |
+|---|---|
 |Transportschäden |
 |Verwenden Sie für den Transport über große Distanzen die vollständige mitgelieferte Verpackung, um Transportschäden am Gerät zu vermeiden! |
 
@@ -63,6 +66,7 @@ Beachten Sie nachfolgende Hinweise, um einen vorhersehbaren Fehlgebrauch zu verm
 
 
 |**Produkt** | |
+|---|---|
 |Modell: |TP-DH1 |
 |Seriennummer: |132 |
 |**Abmaße** | |
@@ -356,6 +360,7 @@ Entsorgen Sie die Bestandteile des Geräts selbst in den dafür vorgesehenen Beh
 
 
 |**Bauteil / Baugruppe** |**Vorgesehener Behälter** |
+|---|---|
 |Metallteile |Sondermüll |
 |Kunststoffteile |Recyclingbehälter |
 |Folieverpackung |Recyclingbehälter |

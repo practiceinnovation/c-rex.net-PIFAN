@@ -6,11 +6,13 @@
 
 
 |![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)|![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Warnung! |
+|---|---|
 |Stromschlag-Gefahr |
 |Schützen Sie das Gerät vor Feuchtigkeit und Niederschlag! Nehmen Sie am Gerät nur Veränderungen vor, die ausdrücklich in der Bedienungsanleitung beschrieben sind! |
 
 
 |![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)|Hinweis |
+|---|---|
 |Transportschäden |
 |Verwenden Sie für den Transport über große Distanzen die vollständige mitgelieferte Verpackung, um Transportschäden am Gerät zu vermeiden! |
 
@@ -58,6 +60,7 @@ Beachten Sie nachfolgende Hinweise, um einen vorhersehbaren Fehlgebrauch zu verm
 
 
 |**Produkt** | |
+|---|---|
 |Modell: |TP-DH2 |
 |Seriennummer: |133 |
 |**Abmaße** | |
@@ -299,6 +302,7 @@ Das Gerät verfügt über ein Display 1, welches Ihnen die Raumtemperatur in °C
 
 
 |  ![../../../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen_5_6.png](../../../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen_5_6.png)| |
+|---|---|
 
 ## Wartung
 
@@ -566,6 +570,7 @@ Entsorgen Sie die Bestandteile des Geräts selbst in den dafür vorgesehenen Beh
 
 
 |**Bauteil / Baugruppe** |**Vorgesehener Behälter** |
+|---|---|
 |Metallteile |Sondermüll |
 |Kunststoffteile |Recyclingbehälter |
 |Folieverpackung |Recyclingbehälter |

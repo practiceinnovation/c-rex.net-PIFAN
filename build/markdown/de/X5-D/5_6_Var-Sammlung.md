@@ -4,3 +4,4 @@ Das Gerät verfügt über ein Display 1, welches Ihnen die Raumtemperatur in °C
 
 
 |![../../../images/media/Bedienteil_m_Display.png](../../../images/media/Bedienteil_m_Display.png)   | |
+|---|---|

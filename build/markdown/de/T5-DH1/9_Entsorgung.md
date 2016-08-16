@@ -8,6 +8,7 @@ Entsorgen Sie die Bestandteile des Geräts selbst in den dafür vorgesehenen Beh
 
 
 |**Bauteil / Baugruppe** |**Vorgesehener Behälter** |
+|---|---|
 |Metallteile |Sondermüll |
 |Kunststoffteile |Recyclingbehälter |
 |Folieverpackung |Recyclingbehälter |
