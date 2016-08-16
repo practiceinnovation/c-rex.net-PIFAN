@@ -30,88 +30,172 @@ Beachten Sie nachfolgende Hinweise, um einen vorhersehbaren Fehlgebrauch zu verm
 
 <table>
     <tr>
-        <td>**Produkt**</td>
-        <td></td>
+        <td>
+**Produkt**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Modell:</td>
-        <td>XP-B</td>
+        <td>
+Modell:
+</td>
+        <td>
+XP-B
+</td>
     </tr>
     <tr>
-        <td>Seriennummer:</td>
-        <td>231</td>
+        <td>
+Seriennummer:
+</td>
+        <td>
+231
+</td>
     </tr>
     <tr>
-        <td>**Abmaße**</td>
-        <td></td>
+        <td>
+**Abmaße**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Höhe:</td>
-        <td>100-160 cm</td>
+        <td>
+Höhe:
+</td>
+        <td>
+100-160 cm
+</td>
     </tr>
     <tr>
-        <td>Standfuß-Durchmesser:</td>
-        <td>70 cm</td>
+        <td>
+Standfuß-Durchmesser:
+</td>
+        <td>
+70 cm
+</td>
     </tr>
     <tr>
-        <td>Rotordurchmesser:</td>
-        <td>60 cm</td>
+        <td>
+Rotordurchmesser:
+</td>
+        <td>
+60 cm
+</td>
     </tr>
     <tr>
-        <td>Gewicht:</td>
-        <td>4.5999999999999996 kg</td>
+        <td>
+Gewicht:
+</td>
+        <td>
+4.5999999999999996 kg
+</td>
     </tr>
     <tr>
-        <td>**Leistung**</td>
-        <td></td>
+        <td>
+**Leistung**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Nennspannung:</td>
-        <td>230 Volt</td>
+        <td>
+Nennspannung:
+</td>
+        <td>
+230 Volt
+</td>
     </tr>
     <tr>
-        <td>Leistungsaufnahme:</td>
-        <td>49 Watt</td>
+        <td>
+Leistungsaufnahme:
+</td>
+        <td>
+49 Watt
+</td>
     </tr>
     <tr>
-        <td>Volumenstrom:</td>
-        <td>900-4800 m³ pro Stunde</td>
+        <td>
+Volumenstrom:
+</td>
+        <td>
+900-4800 m³ pro Stunde
+</td>
     </tr>
     <tr>
-        <td>**Funktionen**</td>
-        <td></td>
+        <td>
+**Funktionen**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Geschwindigkeits-steuerung:</td>
-        <td>Stufenlos</td>
+        <td>
+Geschwindigkeits-steuerung:
+</td>
+        <td>
+Stufenlos
+</td>
     </tr>
     <tr>
-        <td>Schwenkfunktion:</td>
-        <td>Ja</td>
+        <td>
+Schwenkfunktion:
+</td>
+        <td>
+Ja
+</td>
     </tr>
     <tr>
-        <td>Höhenverstellbar:</td>
-        <td>Ja</td>
+        <td>
+Höhenverstellbar:
+</td>
+        <td>
+Ja
+</td>
     </tr>
     <tr>
-        <td>Heizfunktion:</td>
-        <td>Nein</td>
+        <td>
+Heizfunktion:
+</td>
+        <td>
+Nein
+</td>
     </tr>
     <tr>
-        <td>Heizsteuerung:</td>
-        <td>-</td>
+        <td>
+Heizsteuerung:
+</td>
+        <td>
+-
+</td>
     </tr>
     <tr>
-        <td>Neigungswinkel:</td>
-        <td>-15° / +35°</td>
+        <td>
+Neigungswinkel:
+</td>
+        <td>
+-15° / +35°
+</td>
     </tr>
     <tr>
-        <td>**Sicherheit**</td>
-        <td></td>
+        <td>
+**Sicherheit**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Schutzklasse:</td>
-        <td>II</td>
+        <td>
+Schutzklasse:
+</td>
+        <td>
+II
+</td>
     </tr>
 </table>
 # Höhe einstellen
@@ -138,7 +222,7 @@ Die Höhe des Geräts ist stufenlos einstellbar.
 
 : Höhe einstellen
 
-![: Höhe einstellen](../images/media/Stand_1_H_he_einstellen.png ": Höhe einstellen")
+![: Höhe einstellen](../../../images/media/Stand_1_H_he_einstellen.png ": Höhe einstellen")
 
 1. Greifen Sie die Funktionseinheit 1 am Griff auf der Oberseite.
 
@@ -180,7 +264,7 @@ Hinweis: Ein deutlich hörbares Einrastgeräusch signalisiert, dass sich der Nei
 
 
 
-![../images/media/Stand_2_Neigen.png](../images/media/Stand_2_Neigen.png)
+![../../../images/media/Stand_2_Neigen.png](../../../images/media/Stand_2_Neigen.png)
 
 : Neigung einstellen
 
@@ -216,7 +300,7 @@ Mit dem Drehknopf 1 steuern Sie die Geschwindigkeit des Lüfterrades.
 
 
 
-![../images/media/Bedienteil_Basis.png](../images/media/Bedienteil_Basis.png)
+![../../../images/media/Bedienteil_Basis.png](../../../images/media/Bedienteil_Basis.png)
 
 (ergibt 5_3h)
 
@@ -236,7 +320,7 @@ Mit dem Drehknopf 1 steuern Sie die Geschwindigkeit des Lüfterrades.
 
 
 
-![../images/media/Bedienteil_Basis_5_4.png](../images/media/Bedienteil_Basis_5_4.png)
+![../../../images/media/Bedienteil_Basis_5_4.png](../../../images/media/Bedienteil_Basis_5_4.png)
 
 1. Drücken Sie die Taste 1, bis sie hörbar einrastet, und lassen Sie sie dann los, um die Schwenkfunktion einzuschalten
 

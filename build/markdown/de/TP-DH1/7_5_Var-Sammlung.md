@@ -12,7 +12,7 @@ Das Gerät verwendet den Elektromotor ABC-123 und darf nur mit diesem betrieben 
 
 
 
-![../images/media/Tisch_Reparatur_E_Motor.png](../images/media/Tisch_Reparatur_E_Motor.png)
+![../../../images/media/Tisch_Reparatur_E_Motor.png](../../../images/media/Tisch_Reparatur_E_Motor.png)
 
 : Gehäuseabdeckung entfernen
 

@@ -6,7 +6,15 @@ Das Gerät verfügt über ein Display 1, welches Ihnen die Raumtemperatur in °C
     <tr>
         <td>
 
-![../images/media/Bedienteil_m_Display.png](../images/media/Bedienteil_m_Display.png)</td>
-        <td></td>
+
+![../../../images/media/Bedienteil_m_Display.png](../../../images/media/Bedienteil_m_Display.png)
+
+
+
+
+</td>
+        <td>
+
+</td>
     </tr>
 </table>

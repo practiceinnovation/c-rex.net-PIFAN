@@ -8,24 +8,44 @@ Entsorgen Sie die Bestandteile des Geräts selbst in den dafür vorgesehenen Beh
 
 <table>
     <tr>
-        <td>**Bauteil / Baugruppe**</td>
-        <td>**Vorgesehener Behälter**</td>
+        <td>
+**Bauteil / Baugruppe**
+</td>
+        <td>
+**Vorgesehener Behälter**
+</td>
     </tr>
     <tr>
-        <td>Metallteile</td>
-        <td>Sondermüll</td>
+        <td>
+Metallteile
+</td>
+        <td>
+Sondermüll
+</td>
     </tr>
     <tr>
-        <td>Kunststoffteile</td>
-        <td>Recyclingbehälter</td>
+        <td>
+Kunststoffteile
+</td>
+        <td>
+Recyclingbehälter
+</td>
     </tr>
     <tr>
-        <td>Folieverpackung</td>
-        <td>Recyclingbehälter</td>
+        <td>
+Folieverpackung
+</td>
+        <td>
+Recyclingbehälter
+</td>
     </tr>
     <tr>
-        <td>Kartonverpackung</td>
-        <td>Papier-Mülltonne</td>
+        <td>
+Kartonverpackung
+</td>
+        <td>
+Papier-Mülltonne
+</td>
     </tr>
 </table>
 

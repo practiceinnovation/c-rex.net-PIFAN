@@ -36,88 +36,172 @@ Beachten Sie nachfolgende Hinweise, um einen vorhersehbaren Fehlgebrauch zu verm
 
 <table>
     <tr>
-        <td>**Produkt**</td>
-        <td></td>
+        <td>
+**Produkt**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Modell:</td>
-        <td>TP-DH2</td>
+        <td>
+Modell:
+</td>
+        <td>
+TP-DH2
+</td>
     </tr>
     <tr>
-        <td>Seriennummer:</td>
-        <td>133</td>
+        <td>
+Seriennummer:
+</td>
+        <td>
+133
+</td>
     </tr>
     <tr>
-        <td>**Abmaße**</td>
-        <td></td>
+        <td>
+**Abmaße**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Höhe:</td>
-        <td>45 cm</td>
+        <td>
+Höhe:
+</td>
+        <td>
+45 cm
+</td>
     </tr>
     <tr>
-        <td>Standfuß-Durchmesser:</td>
-        <td>30 cm</td>
+        <td>
+Standfuß-Durchmesser:
+</td>
+        <td>
+30 cm
+</td>
     </tr>
     <tr>
-        <td>Rotordurchmesser:</td>
-        <td>40 cm</td>
+        <td>
+Rotordurchmesser:
+</td>
+        <td>
+40 cm
+</td>
     </tr>
     <tr>
-        <td>Gewicht:</td>
-        <td>2.6 kg</td>
+        <td>
+Gewicht:
+</td>
+        <td>
+2.6 kg
+</td>
     </tr>
     <tr>
-        <td>**Leistung**</td>
-        <td></td>
+        <td>
+**Leistung**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Nennspannung:</td>
-        <td>230 Volt</td>
+        <td>
+Nennspannung:
+</td>
+        <td>
+230 Volt
+</td>
     </tr>
     <tr>
-        <td>Leistungsaufnahme:</td>
-        <td>59 Watt</td>
+        <td>
+Leistungsaufnahme:
+</td>
+        <td>
+59 Watt
+</td>
     </tr>
     <tr>
-        <td>Volumenstrom:</td>
-        <td>500-3400 m³ pro Stunde</td>
+        <td>
+Volumenstrom:
+</td>
+        <td>
+500-3400 m³ pro Stunde
+</td>
     </tr>
     <tr>
-        <td>**Funktionen**</td>
-        <td></td>
+        <td>
+**Funktionen**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Geschwindigkeits-steuerung:</td>
-        <td>Stufenlos</td>
+        <td>
+Geschwindigkeits-steuerung:
+</td>
+        <td>
+Stufenlos
+</td>
     </tr>
     <tr>
-        <td>Schwenkfunktion:</td>
-        <td>Ja</td>
+        <td>
+Schwenkfunktion:
+</td>
+        <td>
+Ja
+</td>
     </tr>
     <tr>
-        <td>Höhenverstellbar:</td>
-        <td>Nein</td>
+        <td>
+Höhenverstellbar:
+</td>
+        <td>
+Nein
+</td>
     </tr>
     <tr>
-        <td>Heizfunktion:</td>
-        <td>Ja</td>
+        <td>
+Heizfunktion:
+</td>
+        <td>
+Ja
+</td>
     </tr>
     <tr>
-        <td>Heizsteuerung:</td>
-        <td>2 Stufen</td>
+        <td>
+Heizsteuerung:
+</td>
+        <td>
+2 Stufen
+</td>
     </tr>
     <tr>
-        <td>Neigungswinkel:</td>
-        <td>-15° / +35°</td>
+        <td>
+Neigungswinkel:
+</td>
+        <td>
+-15° / +35°
+</td>
     </tr>
     <tr>
-        <td>**Sicherheit**</td>
-        <td></td>
+        <td>
+**Sicherheit**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Schutzklasse:</td>
-        <td>II</td>
+        <td>
+Schutzklasse:
+</td>
+        <td>
+II
+</td>
     </tr>
 </table>
 # Rotor montieren
@@ -140,7 +224,7 @@ Sicherheitshinweise
 
 : Schutzgitter-Rückseite montieren
 
-![: Schutzgitter-Rückseite montieren](../images/media/Stand_1_Schutzgitter_Num_3_1.png ": Schutzgitter-Rückseite montieren")
+![: Schutzgitter-Rückseite montieren](../../../images/media/Stand_1_Schutzgitter_Num_3_1.png ": Schutzgitter-Rückseite montieren")
 
 1. Schieben Sie die Schutzgitter-Rückseite 1 auf den Antrieb 2, wie in  zu sehen.
 
@@ -150,7 +234,7 @@ Sicherheitshinweise
 
 : Rotor montieren
 
-![: Rotor montieren](../images/media/Stand_2_Rotor_Num.png ": Rotor montieren")
+![: Rotor montieren](../../../images/media/Stand_2_Rotor_Num.png ": Rotor montieren")
 
 3. Schieben Sie die Befestigungsschraube 4 durch den Rotor 5.
 
@@ -160,7 +244,7 @@ Sicherheitshinweise
 
 : Schutzgitter-Vorderseite montieren
 
-![: Schutzgitter-Vorderseite montieren](../images/media/Stand_3_Schutzgitter_Vorderseite_Num.png ": Schutzgitter-Vorderseite montieren")
+![: Schutzgitter-Vorderseite montieren](../../../images/media/Stand_3_Schutzgitter_Vorderseite_Num.png ": Schutzgitter-Vorderseite montieren")
 
 5. Legen Sie die Schutzgitter-Vorderseite 6 an die Schutzgitter-Rückseite 1, welche Sie bereits montiert haben, wie in  zu sehen.
 
@@ -172,7 +256,7 @@ Sicherheitshinweise
 
 : Rotor montiert
 
-![: Rotor montiert](../images/media/Montage_Stand_Ventilatorkopf_Fertig.png ": Rotor montiert")Sie haben den Rotor und das Schutzgitter nun fertig montiert.# Neigung einstellen
+![: Rotor montiert](../../../images/media/Montage_Stand_Ventilatorkopf_Fertig.png ": Rotor montiert")Sie haben den Rotor und das Schutzgitter nun fertig montiert.# Neigung einstellen
 
 ***
 
@@ -202,7 +286,7 @@ Hinweis: Ein deutlich hörbares Einrastgeräusch signalisiert, dass sich der Nei
 
 
 
-![../images/media/Neigen_Stand.png](../images/media/Neigen_Stand.png)
+![../../../images/media/Neigen_Stand.png](../../../images/media/Neigen_Stand.png)
 
 : Neigung einstellen
 
@@ -240,7 +324,7 @@ Mit dem Drehknopf 1 steuern Sie die Geschwindigkeit des Lüfterrades.
 
 (ergibt 5_3h)
 
-![../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen.png](../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen.png)
+![../../../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen.png](../../../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen.png)
 
 1. Drehen Sie den Drehknopf nach rechts (im Uhrzeigersinn), wenn das Gerät ausgeschaltet ist, um es einzuschalten.
 
@@ -258,7 +342,7 @@ Mit dem Drehknopf 1 steuern Sie die Geschwindigkeit des Lüfterrades.
 
 
 
-![../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen.png](../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen.png)
+![../../../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen.png](../../../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen.png)
 
 1. Drücken Sie die Taste 1, bis sie hörbar einrastet, und lassen Sie sie dann los, um die Schwenkfunktion einzuschalten
 
@@ -272,7 +356,7 @@ Mit dem Drehknopf 1 steuern Sie die Geschwindigkeit des Lüfterrades.
 
 
 
-![../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen.png](../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen.png)
+![../../../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen.png](../../../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen.png)
 
 1. Schieben Sie den Schieberegler 1 nach links, um die Heizung auf niedriger Stufe einzuschalten
 
@@ -292,8 +376,14 @@ Das Gerät verfügt über ein Display 1, welches Ihnen die Raumtemperatur in °C
     <tr>
         <td>
 
-![../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen_5_6.png](../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen_5_6.png)</td>
-        <td></td>
+
+
+
+
+![../../../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen_5_6.png](../../../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen_5_6.png)</td>
+        <td>
+
+</td>
     </tr>
 </table>
 # Rotor reinigen
@@ -380,7 +470,7 @@ Das Gerät verwendet den Elektromotor ABC-123 und darf nur mit diesem betrieben 
 
 
 
-![../images/media/Tisch_Reparatur_E_Motor.png](../images/media/Tisch_Reparatur_E_Motor.png)
+![../../../images/media/Tisch_Reparatur_E_Motor.png](../../../images/media/Tisch_Reparatur_E_Motor.png)
 
 : Gehäuseabdeckung entfernen
 

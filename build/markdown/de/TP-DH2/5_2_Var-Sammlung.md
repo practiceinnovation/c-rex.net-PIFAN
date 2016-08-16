@@ -28,7 +28,7 @@ Hinweis: Ein deutlich hörbares Einrastgeräusch signalisiert, dass sich der Nei
 
 
 
-![../images/media/Neigen_Stand.png](../images/media/Neigen_Stand.png)
+![../../../images/media/Neigen_Stand.png](../../../images/media/Neigen_Stand.png)
 
 : Neigung einstellen
 

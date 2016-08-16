@@ -36,88 +36,172 @@ Beachten Sie nachfolgende Hinweise, um einen vorhersehbaren Fehlgebrauch zu verm
 
 <table>
     <tr>
-        <td>**Produkt**</td>
-        <td></td>
+        <td>
+**Produkt**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Modell:</td>
-        <td>T5-DH2</td>
+        <td>
+Modell:
+</td>
+        <td>
+T5-DH2
+</td>
     </tr>
     <tr>
-        <td>Seriennummer:</td>
-        <td>123</td>
+        <td>
+Seriennummer:
+</td>
+        <td>
+123
+</td>
     </tr>
     <tr>
-        <td>**Abmaße**</td>
-        <td></td>
+        <td>
+**Abmaße**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Höhe:</td>
-        <td>45 cm</td>
+        <td>
+Höhe:
+</td>
+        <td>
+45 cm
+</td>
     </tr>
     <tr>
-        <td>Standfuß-Durchmesser:</td>
-        <td>30 cm</td>
+        <td>
+Standfuß-Durchmesser:
+</td>
+        <td>
+30 cm
+</td>
     </tr>
     <tr>
-        <td>Rotordurchmesser:</td>
-        <td>40 cm</td>
+        <td>
+Rotordurchmesser:
+</td>
+        <td>
+40 cm
+</td>
     </tr>
     <tr>
-        <td>Gewicht:</td>
-        <td>2.6 kg</td>
+        <td>
+Gewicht:
+</td>
+        <td>
+2.6 kg
+</td>
     </tr>
     <tr>
-        <td>**Leistung**</td>
-        <td></td>
+        <td>
+**Leistung**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Nennspannung:</td>
-        <td>230 Volt</td>
+        <td>
+Nennspannung:
+</td>
+        <td>
+230 Volt
+</td>
     </tr>
     <tr>
-        <td>Leistungsaufnahme:</td>
-        <td>59 Watt</td>
+        <td>
+Leistungsaufnahme:
+</td>
+        <td>
+59 Watt
+</td>
     </tr>
     <tr>
-        <td>Volumenstrom:</td>
-        <td>500-3400 m³ pro Stunde</td>
+        <td>
+Volumenstrom:
+</td>
+        <td>
+500-3400 m³ pro Stunde
+</td>
     </tr>
     <tr>
-        <td>**Funktionen**</td>
-        <td></td>
+        <td>
+**Funktionen**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Geschwindigkeits-steuerung:</td>
-        <td>5 Stufen</td>
+        <td>
+Geschwindigkeits-steuerung:
+</td>
+        <td>
+5 Stufen
+</td>
     </tr>
     <tr>
-        <td>Schwenkfunktion:</td>
-        <td>Ja</td>
+        <td>
+Schwenkfunktion:
+</td>
+        <td>
+Ja
+</td>
     </tr>
     <tr>
-        <td>Höhenverstellbar:</td>
-        <td>Nein</td>
+        <td>
+Höhenverstellbar:
+</td>
+        <td>
+Nein
+</td>
     </tr>
     <tr>
-        <td>Heizfunktion:</td>
-        <td>Ja</td>
+        <td>
+Heizfunktion:
+</td>
+        <td>
+Ja
+</td>
     </tr>
     <tr>
-        <td>Heizsteuerung:</td>
-        <td>2 Stufen</td>
+        <td>
+Heizsteuerung:
+</td>
+        <td>
+2 Stufen
+</td>
     </tr>
     <tr>
-        <td>Neigungswinkel:</td>
-        <td>-15° / +35°</td>
+        <td>
+Neigungswinkel:
+</td>
+        <td>
+-15° / +35°
+</td>
     </tr>
     <tr>
-        <td>**Sicherheit**</td>
-        <td></td>
+        <td>
+**Sicherheit**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Schutzklasse:</td>
-        <td>II</td>
+        <td>
+Schutzklasse:
+</td>
+        <td>
+II
+</td>
     </tr>
 </table>
 # Rotor montieren
@@ -140,7 +224,7 @@ Sicherheitshinweise
 
 : Schutzgitter-Rückseite montieren
 
-![: Schutzgitter-Rückseite montieren](../images/media/Stand_1_Schutzgitter_Num_3_1.png ": Schutzgitter-Rückseite montieren")
+![: Schutzgitter-Rückseite montieren](../../../images/media/Stand_1_Schutzgitter_Num_3_1.png ": Schutzgitter-Rückseite montieren")
 
 1. Schieben Sie die Schutzgitter-Rückseite 1 auf den Antrieb 2, wie in  zu sehen.
 
@@ -150,7 +234,7 @@ Sicherheitshinweise
 
 : Rotor montieren
 
-![: Rotor montieren](../images/media/Stand_2_Rotor_Num.png ": Rotor montieren")
+![: Rotor montieren](../../../images/media/Stand_2_Rotor_Num.png ": Rotor montieren")
 
 3. Schieben Sie die Befestigungsschraube 4 durch den Rotor 5.
 
@@ -160,7 +244,7 @@ Sicherheitshinweise
 
 : Schutzgitter-Vorderseite montieren
 
-![: Schutzgitter-Vorderseite montieren](../images/media/Stand_3_Schutzgitter_Vorderseite_Num.png ": Schutzgitter-Vorderseite montieren")
+![: Schutzgitter-Vorderseite montieren](../../../images/media/Stand_3_Schutzgitter_Vorderseite_Num.png ": Schutzgitter-Vorderseite montieren")
 
 5. Legen Sie die Schutzgitter-Vorderseite 6 an die Schutzgitter-Rückseite 1, welche Sie bereits montiert haben, wie in  zu sehen.
 
@@ -172,7 +256,7 @@ Sicherheitshinweise
 
 : Rotor montiert
 
-![: Rotor montiert](../images/media/Montage_Stand_Ventilatorkopf_Fertig.png ": Rotor montiert")Sie haben den Rotor und das Schutzgitter nun fertig montiert.# Rotor reinigen
+![: Rotor montiert](../../../images/media/Montage_Stand_Ventilatorkopf_Fertig.png ": Rotor montiert")Sie haben den Rotor und das Schutzgitter nun fertig montiert.# Rotor reinigen
 
 ***
 

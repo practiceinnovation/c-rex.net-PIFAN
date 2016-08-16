@@ -36,88 +36,172 @@ Beachten Sie nachfolgende Hinweise, um einen vorhersehbaren Fehlgebrauch zu verm
 
 <table>
     <tr>
-        <td>**Produkt**</td>
-        <td></td>
+        <td>
+**Produkt**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Modell:</td>
-        <td>X3-H1</td>
+        <td>
+Modell:
+</td>
+        <td>
+X3-H1
+</td>
     </tr>
     <tr>
-        <td>Seriennummer:</td>
-        <td>212</td>
+        <td>
+Seriennummer:
+</td>
+        <td>
+212
+</td>
     </tr>
     <tr>
-        <td>**Abmaße**</td>
-        <td></td>
+        <td>
+**Abmaße**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Höhe:</td>
-        <td>100-160 cm</td>
+        <td>
+Höhe:
+</td>
+        <td>
+100-160 cm
+</td>
     </tr>
     <tr>
-        <td>Standfuß-Durchmesser:</td>
-        <td>70 cm</td>
+        <td>
+Standfuß-Durchmesser:
+</td>
+        <td>
+70 cm
+</td>
     </tr>
     <tr>
-        <td>Rotordurchmesser:</td>
-        <td>60 cm</td>
+        <td>
+Rotordurchmesser:
+</td>
+        <td>
+60 cm
+</td>
     </tr>
     <tr>
-        <td>Gewicht:</td>
-        <td>4.8 kg</td>
+        <td>
+Gewicht:
+</td>
+        <td>
+4.8 kg
+</td>
     </tr>
     <tr>
-        <td>**Leistung**</td>
-        <td></td>
+        <td>
+**Leistung**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Nennspannung:</td>
-        <td>230 Volt</td>
+        <td>
+Nennspannung:
+</td>
+        <td>
+230 Volt
+</td>
     </tr>
     <tr>
-        <td>Leistungsaufnahme:</td>
-        <td>58 Watt</td>
+        <td>
+Leistungsaufnahme:
+</td>
+        <td>
+58 Watt
+</td>
     </tr>
     <tr>
-        <td>Volumenstrom:</td>
-        <td>900-4200 m³ pro Stunde</td>
+        <td>
+Volumenstrom:
+</td>
+        <td>
+900-4200 m³ pro Stunde
+</td>
     </tr>
     <tr>
-        <td>**Funktionen**</td>
-        <td></td>
+        <td>
+**Funktionen**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Geschwindigkeits-steuerung:</td>
-        <td>3 Stufen</td>
+        <td>
+Geschwindigkeits-steuerung:
+</td>
+        <td>
+3 Stufen
+</td>
     </tr>
     <tr>
-        <td>Schwenkfunktion:</td>
-        <td>Ja</td>
+        <td>
+Schwenkfunktion:
+</td>
+        <td>
+Ja
+</td>
     </tr>
     <tr>
-        <td>Höhenverstellbar:</td>
-        <td>Ja</td>
+        <td>
+Höhenverstellbar:
+</td>
+        <td>
+Ja
+</td>
     </tr>
     <tr>
-        <td>Heizfunktion:</td>
-        <td>Ja</td>
+        <td>
+Heizfunktion:
+</td>
+        <td>
+Ja
+</td>
     </tr>
     <tr>
-        <td>Heizsteuerung:</td>
-        <td>1 Stufe</td>
+        <td>
+Heizsteuerung:
+</td>
+        <td>
+1 Stufe
+</td>
     </tr>
     <tr>
-        <td>Neigungswinkel:</td>
-        <td>-15° / +35°</td>
+        <td>
+Neigungswinkel:
+</td>
+        <td>
+-15° / +35°
+</td>
     </tr>
     <tr>
-        <td>**Sicherheit**</td>
-        <td></td>
+        <td>
+**Sicherheit**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Schutzklasse:</td>
-        <td>II</td>
+        <td>
+Schutzklasse:
+</td>
+        <td>
+II
+</td>
     </tr>
 </table>
 # Rotor montieren
@@ -140,7 +224,7 @@ Sicherheitshinweise
 
 : Schutzgitter-Rückseite montieren
 
-![: Schutzgitter-Rückseite montieren](../images/media/Tisch_1_Schutzgitter_R_ckseite_Num.png ": Schutzgitter-Rückseite montieren")
+![: Schutzgitter-Rückseite montieren](../../../images/media/Tisch_1_Schutzgitter_R_ckseite_Num.png ": Schutzgitter-Rückseite montieren")
 
 1. Schieben Sie die Schutzgitter-Rückseite 1 auf den Antrieb 2, wie in  zu sehen.
 
@@ -150,7 +234,7 @@ Sicherheitshinweise
 
 : Rotor montieren
 
-![: Rotor montieren](../images/media/Tisch_2_Rotor_Num.png ": Rotor montieren")
+![: Rotor montieren](../../../images/media/Tisch_2_Rotor_Num.png ": Rotor montieren")
 
 3. Schieben Sie die Befestigungsschraube 4 durch den Rotor 5.
 
@@ -160,7 +244,7 @@ Sicherheitshinweise
 
 : Schutzgitter-Vorderseite montieren
 
-![: Schutzgitter-Vorderseite montieren](../images/media/Tisch_3_Schutzgitter_Vorderseite_Num.png ": Schutzgitter-Vorderseite montieren")
+![: Schutzgitter-Vorderseite montieren](../../../images/media/Tisch_3_Schutzgitter_Vorderseite_Num.png ": Schutzgitter-Vorderseite montieren")
 
 5. Legen Sie die Schutzgitter-Vorderseite 6 an die Schutzgitter-Rückseite 1, welche Sie bereits montiert haben, wie in  zu sehen.
 
@@ -172,7 +256,7 @@ Sicherheitshinweise
 
 : Rotor montiert
 
-![: Rotor montiert](../images/media/Montage_Stand_Schutzgitter_Vorderseite.png ": Rotor montiert")Sie haben den Rotor und das Schutzgitter nun fertig montiert.# Teleskopstange und Standplatte montieren
+![: Rotor montiert](../../../images/media/Montage_Stand_Schutzgitter_Vorderseite.png ": Rotor montiert")Sie haben den Rotor und das Schutzgitter nun fertig montiert.# Teleskopstange und Standplatte montieren
 
 **Steps:**
 
@@ -180,7 +264,7 @@ Sicherheitshinweise
 
 : Bodenständer montieren
 
-![: Bodenständer montieren](../images/media/Stand_5_Fu__Num.png ": Bodenständer montieren")
+![: Bodenständer montieren](../../../images/media/Stand_5_Fu__Num.png ": Bodenständer montieren")
 
 1. Befestigen Sie die Justierschraube 1 an der Teleskopstange 2, wie in  zu sehen und ziehen Sie die Justierschraube handfest an.
 
@@ -192,7 +276,7 @@ Sicherheitshinweise
 
 : Teleskopstange mit Funktionseinheit verbinden
 
-![: Teleskopstange mit Funktionseinheit verbinden](../images/media/Stand_6_Teleskopstange.png ": Teleskopstange mit Funktionseinheit verbinden")
+![: Teleskopstange mit Funktionseinheit verbinden](../../../images/media/Stand_6_Teleskopstange.png ": Teleskopstange mit Funktionseinheit verbinden")
 
 4. Stecken Sie die Funktionseinheit 5, an der Sie bereits das Schutzgitter und den Rotor montiert haben, auf die Teleskopstange, wie in  zu sehen
 
@@ -206,7 +290,7 @@ Sicherheitshinweise
 
 : Gerät fertig montiert
 
-![: Gerät fertig montiert](../images/media/Montage_Stand_Fertig.png ": Gerät fertig montiert")Sie haben das Gerät nun vollständig montiert und können es nun in Betrieb nehmen.# Rotor reinigen
+![: Gerät fertig montiert](../../../images/media/Montage_Stand_Fertig.png ": Gerät fertig montiert")Sie haben das Gerät nun vollständig montiert und können es nun in Betrieb nehmen.# Rotor reinigen
 
 ***
 

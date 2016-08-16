@@ -36,88 +36,172 @@ Beachten Sie nachfolgende Hinweise, um einen vorhersehbaren Fehlgebrauch zu verm
 
 <table>
     <tr>
-        <td>**Produkt**</td>
-        <td></td>
+        <td>
+**Produkt**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Modell:</td>
-        <td>T3-H1</td>
+        <td>
+Modell:
+</td>
+        <td>
+T3-H1
+</td>
     </tr>
     <tr>
-        <td>Seriennummer:</td>
-        <td>112</td>
+        <td>
+Seriennummer:
+</td>
+        <td>
+112
+</td>
     </tr>
     <tr>
-        <td>**Abmaße**</td>
-        <td></td>
+        <td>
+**Abmaße**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Höhe:</td>
-        <td>45 cm</td>
+        <td>
+Höhe:
+</td>
+        <td>
+45 cm
+</td>
     </tr>
     <tr>
-        <td>Standfuß-Durchmesser:</td>
-        <td>30 cm</td>
+        <td>
+Standfuß-Durchmesser:
+</td>
+        <td>
+30 cm
+</td>
     </tr>
     <tr>
-        <td>Rotordurchmesser:</td>
-        <td>40 cm</td>
+        <td>
+Rotordurchmesser:
+</td>
+        <td>
+40 cm
+</td>
     </tr>
     <tr>
-        <td>Gewicht:</td>
-        <td>2.5 kg</td>
+        <td>
+Gewicht:
+</td>
+        <td>
+2.5 kg
+</td>
     </tr>
     <tr>
-        <td>**Leistung**</td>
-        <td></td>
+        <td>
+**Leistung**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Nennspannung:</td>
-        <td>230 Volt</td>
+        <td>
+Nennspannung:
+</td>
+        <td>
+230 Volt
+</td>
     </tr>
     <tr>
-        <td>Leistungsaufnahme:</td>
-        <td>52 Watt</td>
+        <td>
+Leistungsaufnahme:
+</td>
+        <td>
+52 Watt
+</td>
     </tr>
     <tr>
-        <td>Volumenstrom:</td>
-        <td>500-3000 m³ pro Stunde</td>
+        <td>
+Volumenstrom:
+</td>
+        <td>
+500-3000 m³ pro Stunde
+</td>
     </tr>
     <tr>
-        <td>**Funktionen**</td>
-        <td></td>
+        <td>
+**Funktionen**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Geschwindigkeits-steuerung:</td>
-        <td>3 Stufen</td>
+        <td>
+Geschwindigkeits-steuerung:
+</td>
+        <td>
+3 Stufen
+</td>
     </tr>
     <tr>
-        <td>Schwenkfunktion:</td>
-        <td>Ja</td>
+        <td>
+Schwenkfunktion:
+</td>
+        <td>
+Ja
+</td>
     </tr>
     <tr>
-        <td>Höhenverstellbar:</td>
-        <td>Nein</td>
+        <td>
+Höhenverstellbar:
+</td>
+        <td>
+Nein
+</td>
     </tr>
     <tr>
-        <td>Heizfunktion:</td>
-        <td>Ja</td>
+        <td>
+Heizfunktion:
+</td>
+        <td>
+Ja
+</td>
     </tr>
     <tr>
-        <td>Heizsteuerung:</td>
-        <td>1 Stufe</td>
+        <td>
+Heizsteuerung:
+</td>
+        <td>
+1 Stufe
+</td>
     </tr>
     <tr>
-        <td>Neigungswinkel:</td>
-        <td>-15° / +35°</td>
+        <td>
+Neigungswinkel:
+</td>
+        <td>
+-15° / +35°
+</td>
     </tr>
     <tr>
-        <td>**Sicherheit**</td>
-        <td></td>
+        <td>
+**Sicherheit**
+</td>
+        <td>
+
+</td>
     </tr>
     <tr>
-        <td>Schutzklasse:</td>
-        <td>II</td>
+        <td>
+Schutzklasse:
+</td>
+        <td>
+II
+</td>
     </tr>
 </table>
 # Neigung einstellen
@@ -150,7 +234,7 @@ Hinweis: Ein deutlich hörbares Einrastgeräusch signalisiert, dass sich der Nei
 
 
 
-![../images/media/Neigen_Stand.png](../images/media/Neigen_Stand.png)
+![../../../images/media/Neigen_Stand.png](../../../images/media/Neigen_Stand.png)
 
 : Neigung einstellen
 
@@ -202,7 +286,7 @@ Mit dem Drehknopf 1 steuern Sie die Geschwindigkeit des Lüfterrades.
 
 
 
-![../images/media/Bedienteil_m_Heizung.png](../images/media/Bedienteil_m_Heizung.png)
+![../../../images/media/Bedienteil_m_Heizung.png](../../../images/media/Bedienteil_m_Heizung.png)
 
 (ergibt 5_3c)
 
@@ -222,7 +306,7 @@ Mit dem Drehknopf 1 steuern Sie die Geschwindigkeit des Lüfterrades.
 
 
 
-![../images/media/Bedienteil_m_Heizung_5_4.png](../images/media/Bedienteil_m_Heizung_5_4.png)
+![../../../images/media/Bedienteil_m_Heizung_5_4.png](../../../images/media/Bedienteil_m_Heizung_5_4.png)
 
 1. Drücken Sie die Taste 1, bis sie hörbar einrastet, und lassen Sie sie dann los, um die Schwenkfunktion einzuschalten
 
@@ -236,7 +320,7 @@ Mit dem Drehknopf 1 steuern Sie die Geschwindigkeit des Lüfterrades.
 
 
 
-![../images/media/Bedienteil_m_Heizung.png](../images/media/Bedienteil_m_Heizung.png)
+![../../../images/media/Bedienteil_m_Heizung.png](../../../images/media/Bedienteil_m_Heizung.png)
 
 1. Drücken Sie die Taste 1, bis sie hörbar einrastet, und lassen Sie sie dann los, um die Heizung zu aktivieren
 

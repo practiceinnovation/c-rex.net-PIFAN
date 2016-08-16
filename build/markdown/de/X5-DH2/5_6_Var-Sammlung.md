@@ -6,7 +6,13 @@ Das Gerät verfügt über ein Display 1, welches Ihnen die Raumtemperatur in °C
     <tr>
         <td>
 
-![../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen_5_6.png](../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen_5_6.png)</td>
-        <td></td>
+
+
+
+
+![../../../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen_5_6.png](../../../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen_5_6.png)</td>
+        <td>
+
+</td>
     </tr>
 </table>

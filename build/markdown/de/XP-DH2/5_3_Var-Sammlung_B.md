@@ -30,7 +30,7 @@ Mit dem Drehknopf 1 steuern Sie die Geschwindigkeit des Lüfterrades.
 
 (ergibt 5_3h)
 
-![../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen.png](../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen.png)
+![../../../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen.png](../../../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen.png)
 
 1. Drehen Sie den Drehknopf nach rechts (im Uhrzeigersinn), wenn das Gerät ausgeschaltet ist, um es einzuschalten.
 

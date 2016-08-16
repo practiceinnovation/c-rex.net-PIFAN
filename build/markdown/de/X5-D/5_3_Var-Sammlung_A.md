@@ -44,7 +44,7 @@ Mit dem Drehknopf 1 steuern Sie die Geschwindigkeit des Lüfterrades.
 
 
 
-![../images/media/Bedienteil_m_Display.png](../images/media/Bedienteil_m_Display.png)
+![../../../images/media/Bedienteil_m_Display.png](../../../images/media/Bedienteil_m_Display.png)
 
 (ergibt 5_3c)
 

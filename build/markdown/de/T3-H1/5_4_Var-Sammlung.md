@@ -4,7 +4,7 @@
 
 
 
-![../images/media/Bedienteil_m_Heizung_5_4.png](../images/media/Bedienteil_m_Heizung_5_4.png)
+![../../../images/media/Bedienteil_m_Heizung_5_4.png](../../../images/media/Bedienteil_m_Heizung_5_4.png)
 
 1. Drücken Sie die Taste 1, bis sie hörbar einrastet, und lassen Sie sie dann los, um die Schwenkfunktion einzuschalten
 

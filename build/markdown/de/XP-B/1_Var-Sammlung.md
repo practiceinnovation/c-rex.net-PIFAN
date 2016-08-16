@@ -6,16 +6,24 @@
     <tr>
         <td>
 
-![../images/media/Warnsymbol.wmf](../images/media/Warnsymbol.wmf)</td>
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)</td>
         <td>
 
-![../images/media/Warnsymbol.wmf](../images/media/Warnsymbol.wmf) Warnung!</td>
+
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Warnung!
+</td>
     </tr>
     <tr>
-        <td>Stromschlag-Gefahr</td>
+        <td>
+Stromschlag-Gefahr
+</td>
     </tr>
     <tr>
-        <td>Schützen Sie das Gerät vor Feuchtigkeit und Niederschlag!Nehmen Sie am Gerät nur Veränderungen vor, die ausdrücklich in der Bedienungsanleitung beschrieben sind!</td>
+        <td>
+Schützen Sie das Gerät vor Feuchtigkeit und Niederschlag!
+
+Nehmen Sie am Gerät nur Veränderungen vor, die ausdrücklich in der Bedienungsanleitung beschrieben sind!
+</td>
     </tr>
 </table>
 
@@ -24,16 +32,24 @@
     <tr>
         <td>
 
-![../images/media/Warnsymbol.wmf](../images/media/Warnsymbol.wmf)</td>
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)</td>
         <td>
 
-![../images/media/Warnsymbol.wmf](../images/media/Warnsymbol.wmf) Vorsicht!</td>
+
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Vorsicht!
+</td>
     </tr>
     <tr>
-        <td>Verletzungsgefahr durch Umfallen</td>
+        <td>
+Verletzungsgefahr durch Umfallen
+</td>
     </tr>
     <tr>
-        <td>Stellen Sie das Gerät nur auf ebene Flächen, um Verletzungen an Personen und Haustieren sowie Schäden an Gegenständen zu vermeiden!Halten Sie Kleinkinder und Haustiere von dem Gerät fern!</td>
+        <td>
+Stellen Sie das Gerät nur auf ebene Flächen, um Verletzungen an Personen und Haustieren sowie Schäden an Gegenständen zu vermeiden!
+
+Halten Sie Kleinkinder und Haustiere von dem Gerät fern!
+</td>
     </tr>
 </table>
 
@@ -42,13 +58,19 @@
     <tr>
         <td>
 
-![../images/media/Warnsymbol.wmf](../images/media/Warnsymbol.wmf)</td>
-        <td>Hinweis</td>
+![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)</td>
+        <td>
+Hinweis
+</td>
     </tr>
     <tr>
-        <td>Transportschäden</td>
+        <td>
+Transportschäden
+</td>
     </tr>
     <tr>
-        <td>Verwenden Sie für den Transport über große Distanzen die vollständige mitgelieferte Verpackung, um Transportschäden am Gerät zu vermeiden!</td>
+        <td>
+Verwenden Sie für den Transport über große Distanzen die vollständige mitgelieferte Verpackung, um Transportschäden am Gerät zu vermeiden!
+</td>
     </tr>
 </table>

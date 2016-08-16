@@ -14,7 +14,7 @@ Das Gerät wird mit einer Netzspannung von 230V Wechselstrom betrieben. Schließ
 
 : Anschluss an das Stromnetz
 
-![: Anschluss an das Stromnetz](../images/media/Steckdose.png ": Anschluss an das Stromnetz")
+![: Anschluss an das Stromnetz](../../../images/media/Steckdose.png ": Anschluss an das Stromnetz")
 
 1. Vergewissern Sie sich, dass am Netzstecker (A) und an der Steckdose, an welcher Sie das Gerät betreiben wollen, keine Beschädigungen sind.
 

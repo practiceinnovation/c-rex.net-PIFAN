@@ -4,7 +4,7 @@
 
 
 
-![../images/media/Bedienteil_m_Display_u_Heizung.png](../images/media/Bedienteil_m_Display_u_Heizung.png)
+![../../../images/media/Bedienteil_m_Display_u_Heizung.png](../../../images/media/Bedienteil_m_Display_u_Heizung.png)
 
 1. Drücken Sie die Taste 1, bis sie hörbar einrastet, und lassen Sie sie dann los, um die Schwenkfunktion einzuschalten
 
