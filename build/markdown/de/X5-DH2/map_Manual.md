@@ -4,103 +4,25 @@
 
 **Beachten Sie beim Umgang mit dem Gerät die folgenden Sicherheitshinweise.**
 
-<table>
-    <tr>
-        <td>
 
-![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)</td>
-        <td>
+|![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)|![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Warnung! |
+|Stromschlag-Gefahr |
+|Schützen Sie das Gerät vor Feuchtigkeit und Niederschlag! Nehmen Sie am Gerät nur Veränderungen vor, die ausdrücklich in der Bedienungsanleitung beschrieben sind! |
 
 
-![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Warnung!
-</td>
-    </tr>
-    <tr>
-        <td>
-Stromschlag-Gefahr
-</td>
-    </tr>
-    <tr>
-        <td>
-Schützen Sie das Gerät vor Feuchtigkeit und Niederschlag!
-
-Nehmen Sie am Gerät nur Veränderungen vor, die ausdrücklich in der Bedienungsanleitung beschrieben sind!
-</td>
-    </tr>
-</table>
+|![../../../images/media/Brand.wmf](../../../images/media/Brand.wmf)|![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Warnung! |
+|Brandgefahr |
+|Halten Sie das Gerät während des Betriebs von leicht entzündlichen Stoffen fern! |
 
 
-<table>
-    <tr>
-        <td>
-
-![../../../images/media/Brand.wmf](../../../images/media/Brand.wmf)</td>
-        <td>
+|![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)|![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Vorsicht! |
+|Verletzungsgefahr durch Umfallen |
+|Stellen Sie das Gerät nur auf ebene Flächen, um Verletzungen an Personen und Haustieren sowie Schäden an Gegenständen zu vermeiden! Halten Sie Kleinkinder und Haustiere von dem Gerät fern! |
 
 
-![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Warnung!
-</td>
-    </tr>
-    <tr>
-        <td>
-Brandgefahr
-</td>
-    </tr>
-    <tr>
-        <td>
-Halten Sie das Gerät während des Betriebs von leicht entzündlichen Stoffen fern!
-</td>
-    </tr>
-</table>
-
-
-<table>
-    <tr>
-        <td>
-
-![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)</td>
-        <td>
-
-
-![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Vorsicht!
-</td>
-    </tr>
-    <tr>
-        <td>
-Verletzungsgefahr durch Umfallen
-</td>
-    </tr>
-    <tr>
-        <td>
-Stellen Sie das Gerät nur auf ebene Flächen, um Verletzungen an Personen und Haustieren sowie Schäden an Gegenständen zu vermeiden!
-
-Halten Sie Kleinkinder und Haustiere von dem Gerät fern!
-</td>
-    </tr>
-</table>
-
-
-<table>
-    <tr>
-        <td>
-
-![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)</td>
-        <td>
-Hinweis
-</td>
-    </tr>
-    <tr>
-        <td>
-Transportschäden
-</td>
-    </tr>
-    <tr>
-        <td>
-Verwenden Sie für den Transport über große Distanzen die vollständige mitgelieferte Verpackung, um Transportschäden am Gerät zu vermeiden!
-</td>
-    </tr>
-</table>
-
+|![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)|Hinweis |
+|Transportschäden |
+|Verwenden Sie für den Transport über große Distanzen die vollständige mitgelieferte Verpackung, um Transportschäden am Gerät zu vermeiden! |
 
 ## Produktbeschreibung
 
@@ -144,177 +66,28 @@ Beachten Sie nachfolgende Hinweise, um einen vorhersehbaren Fehlgebrauch zu verm
 
 ### Technische Daten
 
-<table>
-    <tr>
-        <td>
-**Produkt**
-</td>
-        <td>
 
-</td>
-    </tr>
-    <tr>
-        <td>
-Modell:
-</td>
-        <td>
-X5-DH2
-</td>
-    </tr>
-    <tr>
-        <td>
-Seriennummer:
-</td>
-        <td>
-224
-</td>
-    </tr>
-    <tr>
-        <td>
-**Abmaße**
-</td>
-        <td>
-
-</td>
-    </tr>
-    <tr>
-        <td>
-Höhe:
-</td>
-        <td>
-100-160 cm
-</td>
-    </tr>
-    <tr>
-        <td>
-Standfuß-Durchmesser:
-</td>
-        <td>
-70 cm
-</td>
-    </tr>
-    <tr>
-        <td>
-Rotordurchmesser:
-</td>
-        <td>
-60 cm
-</td>
-    </tr>
-    <tr>
-        <td>
-Gewicht:
-</td>
-        <td>
-4.9000000000000004 kg
-</td>
-    </tr>
-    <tr>
-        <td>
-**Leistung**
-</td>
-        <td>
-
-</td>
-    </tr>
-    <tr>
-        <td>
-Nennspannung:
-</td>
-        <td>
-230 Volt
-</td>
-    </tr>
-    <tr>
-        <td>
-Leistungsaufnahme:
-</td>
-        <td>
-65 Watt
-</td>
-    </tr>
-    <tr>
-        <td>
-Volumenstrom:
-</td>
-        <td>
-900-4800 m³ pro Stunde
-</td>
-    </tr>
-    <tr>
-        <td>
-**Funktionen**
-</td>
-        <td>
-
-</td>
-    </tr>
-    <tr>
-        <td>
-Geschwindigkeits-steuerung:
-</td>
-        <td>
-5 Stufen
-</td>
-    </tr>
-    <tr>
-        <td>
-Schwenkfunktion:
-</td>
-        <td>
-Ja
-</td>
-    </tr>
-    <tr>
-        <td>
-Höhenverstellbar:
-</td>
-        <td>
-Ja
-</td>
-    </tr>
-    <tr>
-        <td>
-Heizfunktion:
-</td>
-        <td>
-Ja
-</td>
-    </tr>
-    <tr>
-        <td>
-Heizsteuerung:
-</td>
-        <td>
-2 Stufen
-</td>
-    </tr>
-    <tr>
-        <td>
-Neigungswinkel:
-</td>
-        <td>
--15° / +35°
-</td>
-    </tr>
-    <tr>
-        <td>
-**Sicherheit**
-</td>
-        <td>
-
-</td>
-    </tr>
-    <tr>
-        <td>
-Schutzklasse:
-</td>
-        <td>
-II
-</td>
-    </tr>
-</table>
-
+|**Produkt** | |
+|Modell: |X5-DH2 |
+|Seriennummer: |224 |
+|**Abmaße** | |
+|Höhe: |100-160 cm |
+|Standfuß-Durchmesser: |70 cm |
+|Rotordurchmesser: |60 cm |
+|Gewicht: |4.9000000000000004 kg |
+|**Leistung** | |
+|Nennspannung: |230 Volt |
+|Leistungsaufnahme: |65 Watt |
+|Volumenstrom: |900-4800 m³ pro Stunde |
+|**Funktionen** | |
+|Geschwindigkeits-steuerung: |5 Stufen |
+|Schwenkfunktion: |Ja |
+|Höhenverstellbar: |Ja |
+|Heizfunktion: |Ja |
+|Heizsteuerung: |2 Stufen |
+|Neigungswinkel: |-15° / +35° |
+|**Sicherheit** | |
+|Schutzklasse: |II |
 
 ## Montage
 
@@ -626,21 +399,8 @@ Keine der roten LEDs leuchtet.
 
 Das Gerät verfügt über ein Display 1, welches Ihnen die Raumtemperatur in °C anzeigt. Außerdem zeigt das Display alle elektronisch erfassbaren Probleme am Gerät durch Fehlercodes an (siehe Kapitel 7.1).
 
-<table>
-    <tr>
-        <td>
 
-
-
-
-
-![../../../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen_5_6.png](../../../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen_5_6.png)</td>
-        <td>
-
-</td>
-    </tr>
-</table>
-
+|  ![../../../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen_5_6.png](../../../images/media/Bedienteil_m_Display_u_Heizung_2_Stufen_5_6.png)| |
 
 ## Wartung
 
@@ -870,49 +630,12 @@ Das Gerät unterliegt den Entsorgungsbestimmungen für Elektrogeräte. Für die 
 
 Entsorgen Sie die Bestandteile des Geräts selbst in den dafür vorgesehenen Behältern.
 
-<table>
-    <tr>
-        <td>
-**Bauteil / Baugruppe**
-</td>
-        <td>
-**Vorgesehener Behälter**
-</td>
-    </tr>
-    <tr>
-        <td>
-Metallteile
-</td>
-        <td>
-Sondermüll
-</td>
-    </tr>
-    <tr>
-        <td>
-Kunststoffteile
-</td>
-        <td>
-Recyclingbehälter
-</td>
-    </tr>
-    <tr>
-        <td>
-Folieverpackung
-</td>
-        <td>
-Recyclingbehälter
-</td>
-    </tr>
-    <tr>
-        <td>
-Kartonverpackung
-</td>
-        <td>
-Papier-Mülltonne
-</td>
-    </tr>
-</table>
 
+|**Bauteil / Baugruppe** |**Vorgesehener Behälter** |
+|Metallteile |Sondermüll |
+|Kunststoffteile |Recyclingbehälter |
+|Folieverpackung |Recyclingbehälter |
+|Kartonverpackung |Papier-Mülltonne |
 
 **Option 2**
 

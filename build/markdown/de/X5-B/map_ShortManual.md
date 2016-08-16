@@ -4,79 +4,20 @@
 
 **Beachten Sie beim Umgang mit dem Gerät die folgenden Sicherheitshinweise.**
 
-<table>
-    <tr>
-        <td>
 
-![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)</td>
-        <td>
+|![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)|![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Warnung! |
+|Stromschlag-Gefahr |
+|Schützen Sie das Gerät vor Feuchtigkeit und Niederschlag! Nehmen Sie am Gerät nur Veränderungen vor, die ausdrücklich in der Bedienungsanleitung beschrieben sind! |
 
 
-![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Warnung!
-</td>
-    </tr>
-    <tr>
-        <td>
-Stromschlag-Gefahr
-</td>
-    </tr>
-    <tr>
-        <td>
-Schützen Sie das Gerät vor Feuchtigkeit und Niederschlag!
-
-Nehmen Sie am Gerät nur Veränderungen vor, die ausdrücklich in der Bedienungsanleitung beschrieben sind!
-</td>
-    </tr>
-</table>
+|![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)|![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Vorsicht! |
+|Verletzungsgefahr durch Umfallen |
+|Stellen Sie das Gerät nur auf ebene Flächen, um Verletzungen an Personen und Haustieren sowie Schäden an Gegenständen zu vermeiden! Halten Sie Kleinkinder und Haustiere von dem Gerät fern! |
 
 
-<table>
-    <tr>
-        <td>
-
-![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)</td>
-        <td>
-
-
-![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Vorsicht!
-</td>
-    </tr>
-    <tr>
-        <td>
-Verletzungsgefahr durch Umfallen
-</td>
-    </tr>
-    <tr>
-        <td>
-Stellen Sie das Gerät nur auf ebene Flächen, um Verletzungen an Personen und Haustieren sowie Schäden an Gegenständen zu vermeiden!
-
-Halten Sie Kleinkinder und Haustiere von dem Gerät fern!
-</td>
-    </tr>
-</table>
-
-
-<table>
-    <tr>
-        <td>
-
-![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)</td>
-        <td>
-Hinweis
-</td>
-    </tr>
-    <tr>
-        <td>
-Transportschäden
-</td>
-    </tr>
-    <tr>
-        <td>
-Verwenden Sie für den Transport über große Distanzen die vollständige mitgelieferte Verpackung, um Transportschäden am Gerät zu vermeiden!
-</td>
-    </tr>
-</table>
-
+|![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)|Hinweis |
+|Transportschäden |
+|Verwenden Sie für den Transport über große Distanzen die vollständige mitgelieferte Verpackung, um Transportschäden am Gerät zu vermeiden! |
 
 ## Produktbeschreibung
 
@@ -114,177 +55,28 @@ Beachten Sie nachfolgende Hinweise, um einen vorhersehbaren Fehlgebrauch zu verm
 
 ### Technische Daten
 
-<table>
-    <tr>
-        <td>
-**Produkt**
-</td>
-        <td>
 
-</td>
-    </tr>
-    <tr>
-        <td>
-Modell:
-</td>
-        <td>
-X5-B
-</td>
-    </tr>
-    <tr>
-        <td>
-Seriennummer:
-</td>
-        <td>
-221
-</td>
-    </tr>
-    <tr>
-        <td>
-**Abmaße**
-</td>
-        <td>
-
-</td>
-    </tr>
-    <tr>
-        <td>
-Höhe:
-</td>
-        <td>
-100-160 cm
-</td>
-    </tr>
-    <tr>
-        <td>
-Standfuß-Durchmesser:
-</td>
-        <td>
-70 cm
-</td>
-    </tr>
-    <tr>
-        <td>
-Rotordurchmesser:
-</td>
-        <td>
-60 cm
-</td>
-    </tr>
-    <tr>
-        <td>
-Gewicht:
-</td>
-        <td>
-4.5999999999999996 kg
-</td>
-    </tr>
-    <tr>
-        <td>
-**Leistung**
-</td>
-        <td>
-
-</td>
-    </tr>
-    <tr>
-        <td>
-Nennspannung:
-</td>
-        <td>
-230 Volt
-</td>
-    </tr>
-    <tr>
-        <td>
-Leistungsaufnahme:
-</td>
-        <td>
-49 Watt
-</td>
-    </tr>
-    <tr>
-        <td>
-Volumenstrom:
-</td>
-        <td>
-900-4800 m³ pro Stunde
-</td>
-    </tr>
-    <tr>
-        <td>
-**Funktionen**
-</td>
-        <td>
-
-</td>
-    </tr>
-    <tr>
-        <td>
-Geschwindigkeits-steuerung:
-</td>
-        <td>
-5 Stufen
-</td>
-    </tr>
-    <tr>
-        <td>
-Schwenkfunktion:
-</td>
-        <td>
-Ja
-</td>
-    </tr>
-    <tr>
-        <td>
-Höhenverstellbar:
-</td>
-        <td>
-Ja
-</td>
-    </tr>
-    <tr>
-        <td>
-Heizfunktion:
-</td>
-        <td>
-Nein
-</td>
-    </tr>
-    <tr>
-        <td>
-Heizsteuerung:
-</td>
-        <td>
--
-</td>
-    </tr>
-    <tr>
-        <td>
-Neigungswinkel:
-</td>
-        <td>
--15° / +35°
-</td>
-    </tr>
-    <tr>
-        <td>
-**Sicherheit**
-</td>
-        <td>
-
-</td>
-    </tr>
-    <tr>
-        <td>
-Schutzklasse:
-</td>
-        <td>
-II
-</td>
-    </tr>
-</table>
-
+|**Produkt** | |
+|Modell: |X5-B |
+|Seriennummer: |221 |
+|**Abmaße** | |
+|Höhe: |100-160 cm |
+|Standfuß-Durchmesser: |70 cm |
+|Rotordurchmesser: |60 cm |
+|Gewicht: |4.5999999999999996 kg |
+|**Leistung** | |
+|Nennspannung: |230 Volt |
+|Leistungsaufnahme: |49 Watt |
+|Volumenstrom: |900-4800 m³ pro Stunde |
+|**Funktionen** | |
+|Geschwindigkeits-steuerung: |5 Stufen |
+|Schwenkfunktion: |Ja |
+|Höhenverstellbar: |Ja |
+|Heizfunktion: |Nein |
+|Heizsteuerung: |- |
+|Neigungswinkel: |-15° / +35° |
+|**Sicherheit** | |
+|Schutzklasse: |II |
 
 ## Bedienung
 

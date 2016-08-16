@@ -4,77 +4,20 @@
 
 **Beachten Sie beim Umgang mit dem Gerät die folgenden Sicherheitshinweise.**
 
-<table>
-    <tr>
-        <td>
 
-![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)</td>
-        <td>
+|![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)|![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Warnung! |
+|Stromschlag-Gefahr |
+|Schützen Sie das Gerät vor Feuchtigkeit und Niederschlag! Nehmen Sie am Gerät nur Veränderungen vor, die ausdrücklich in der Bedienungsanleitung beschrieben sind! |
 
 
-![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Warnung!
-</td>
-    </tr>
-    <tr>
-        <td>
-Stromschlag-Gefahr
-</td>
-    </tr>
-    <tr>
-        <td>
-Schützen Sie das Gerät vor Feuchtigkeit und Niederschlag!
-
-Nehmen Sie am Gerät nur Veränderungen vor, die ausdrücklich in der Bedienungsanleitung beschrieben sind!
-</td>
-    </tr>
-</table>
+|![../../../images/media/Brand.wmf](../../../images/media/Brand.wmf)|![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Warnung! |
+|Brandgefahr |
+|Halten Sie das Gerät während des Betriebs von leicht entzündlichen Stoffen fern! |
 
 
-<table>
-    <tr>
-        <td>
-
-![../../../images/media/Brand.wmf](../../../images/media/Brand.wmf)</td>
-        <td>
-
-
-![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf) Warnung!
-</td>
-    </tr>
-    <tr>
-        <td>
-Brandgefahr
-</td>
-    </tr>
-    <tr>
-        <td>
-Halten Sie das Gerät während des Betriebs von leicht entzündlichen Stoffen fern!
-</td>
-    </tr>
-</table>
-
-
-<table>
-    <tr>
-        <td>
-
-![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)</td>
-        <td>
-Hinweis
-</td>
-    </tr>
-    <tr>
-        <td>
-Transportschäden
-</td>
-    </tr>
-    <tr>
-        <td>
-Verwenden Sie für den Transport über große Distanzen die vollständige mitgelieferte Verpackung, um Transportschäden am Gerät zu vermeiden!
-</td>
-    </tr>
-</table>
-
+|![../../../images/media/Warnsymbol.wmf](../../../images/media/Warnsymbol.wmf)|Hinweis |
+|Transportschäden |
+|Verwenden Sie für den Transport über große Distanzen die vollständige mitgelieferte Verpackung, um Transportschäden am Gerät zu vermeiden! |
 
 ## Produktbeschreibung
 
@@ -118,177 +61,28 @@ Beachten Sie nachfolgende Hinweise, um einen vorhersehbaren Fehlgebrauch zu verm
 
 ### Technische Daten
 
-<table>
-    <tr>
-        <td>
-**Produkt**
-</td>
-        <td>
 
-</td>
-    </tr>
-    <tr>
-        <td>
-Modell:
-</td>
-        <td>
-TP-DH1
-</td>
-    </tr>
-    <tr>
-        <td>
-Seriennummer:
-</td>
-        <td>
-132
-</td>
-    </tr>
-    <tr>
-        <td>
-**Abmaße**
-</td>
-        <td>
-
-</td>
-    </tr>
-    <tr>
-        <td>
-Höhe:
-</td>
-        <td>
-45 cm
-</td>
-    </tr>
-    <tr>
-        <td>
-Standfuß-Durchmesser:
-</td>
-        <td>
-30 cm
-</td>
-    </tr>
-    <tr>
-        <td>
-Rotordurchmesser:
-</td>
-        <td>
-40 cm
-</td>
-    </tr>
-    <tr>
-        <td>
-Gewicht:
-</td>
-        <td>
-2.6 kg
-</td>
-    </tr>
-    <tr>
-        <td>
-**Leistung**
-</td>
-        <td>
-
-</td>
-    </tr>
-    <tr>
-        <td>
-Nennspannung:
-</td>
-        <td>
-230 Volt
-</td>
-    </tr>
-    <tr>
-        <td>
-Leistungsaufnahme:
-</td>
-        <td>
-52 Watt
-</td>
-    </tr>
-    <tr>
-        <td>
-Volumenstrom:
-</td>
-        <td>
-500-3400 m³ pro Stunde
-</td>
-    </tr>
-    <tr>
-        <td>
-**Funktionen**
-</td>
-        <td>
-
-</td>
-    </tr>
-    <tr>
-        <td>
-Geschwindigkeits-steuerung:
-</td>
-        <td>
-Stufenlos
-</td>
-    </tr>
-    <tr>
-        <td>
-Schwenkfunktion:
-</td>
-        <td>
-Ja
-</td>
-    </tr>
-    <tr>
-        <td>
-Höhenverstellbar:
-</td>
-        <td>
-Nein
-</td>
-    </tr>
-    <tr>
-        <td>
-Heizfunktion:
-</td>
-        <td>
-Ja
-</td>
-    </tr>
-    <tr>
-        <td>
-Heizsteuerung:
-</td>
-        <td>
-1 Stufe
-</td>
-    </tr>
-    <tr>
-        <td>
-Neigungswinkel:
-</td>
-        <td>
--15° / +35°
-</td>
-    </tr>
-    <tr>
-        <td>
-**Sicherheit**
-</td>
-        <td>
-
-</td>
-    </tr>
-    <tr>
-        <td>
-Schutzklasse:
-</td>
-        <td>
-II
-</td>
-    </tr>
-</table>
-
+|**Produkt** | |
+|Modell: |TP-DH1 |
+|Seriennummer: |132 |
+|**Abmaße** | |
+|Höhe: |45 cm |
+|Standfuß-Durchmesser: |30 cm |
+|Rotordurchmesser: |40 cm |
+|Gewicht: |2.6 kg |
+|**Leistung** | |
+|Nennspannung: |230 Volt |
+|Leistungsaufnahme: |52 Watt |
+|Volumenstrom: |500-3400 m³ pro Stunde |
+|**Funktionen** | |
+|Geschwindigkeits-steuerung: |Stufenlos |
+|Schwenkfunktion: |Ja |
+|Höhenverstellbar: |Nein |
+|Heizfunktion: |Ja |
+|Heizsteuerung: |1 Stufe |
+|Neigungswinkel: |-15° / +35° |
+|**Sicherheit** | |
+|Schutzklasse: |II |
 
 ## Montage
 
@@ -560,49 +354,12 @@ Das Gerät unterliegt den Entsorgungsbestimmungen für Elektrogeräte. Für die 
 
 Entsorgen Sie die Bestandteile des Geräts selbst in den dafür vorgesehenen Behältern.
 
-<table>
-    <tr>
-        <td>
-**Bauteil / Baugruppe**
-</td>
-        <td>
-**Vorgesehener Behälter**
-</td>
-    </tr>
-    <tr>
-        <td>
-Metallteile
-</td>
-        <td>
-Sondermüll
-</td>
-    </tr>
-    <tr>
-        <td>
-Kunststoffteile
-</td>
-        <td>
-Recyclingbehälter
-</td>
-    </tr>
-    <tr>
-        <td>
-Folieverpackung
-</td>
-        <td>
-Recyclingbehälter
-</td>
-    </tr>
-    <tr>
-        <td>
-Kartonverpackung
-</td>
-        <td>
-Papier-Mülltonne
-</td>
-    </tr>
-</table>
 
+|**Bauteil / Baugruppe** |**Vorgesehener Behälter** |
+|Metallteile |Sondermüll |
+|Kunststoffteile |Recyclingbehälter |
+|Folieverpackung |Recyclingbehälter |
+|Kartonverpackung |Papier-Mülltonne |
 
 **Option 2**
 

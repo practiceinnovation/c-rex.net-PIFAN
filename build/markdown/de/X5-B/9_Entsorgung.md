@@ -6,49 +6,12 @@ Das Gerät unterliegt den Entsorgungsbestimmungen für Elektrogeräte. Für die 
 
 Entsorgen Sie die Bestandteile des Geräts selbst in den dafür vorgesehenen Behältern.
 
-<table>
-    <tr>
-        <td>
-**Bauteil / Baugruppe**
-</td>
-        <td>
-**Vorgesehener Behälter**
-</td>
-    </tr>
-    <tr>
-        <td>
-Metallteile
-</td>
-        <td>
-Sondermüll
-</td>
-    </tr>
-    <tr>
-        <td>
-Kunststoffteile
-</td>
-        <td>
-Recyclingbehälter
-</td>
-    </tr>
-    <tr>
-        <td>
-Folieverpackung
-</td>
-        <td>
-Recyclingbehälter
-</td>
-    </tr>
-    <tr>
-        <td>
-Kartonverpackung
-</td>
-        <td>
-Papier-Mülltonne
-</td>
-    </tr>
-</table>
 
+|**Bauteil / Baugruppe** |**Vorgesehener Behälter** |
+|Metallteile |Sondermüll |
+|Kunststoffteile |Recyclingbehälter |
+|Folieverpackung |Recyclingbehälter |
+|Kartonverpackung |Papier-Mülltonne |
 
 **Option 2**
 
