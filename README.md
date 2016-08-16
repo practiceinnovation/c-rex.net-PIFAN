@@ -9,7 +9,7 @@
 - Building 18 product variants (set of DITA files)
 - Generating Word target documents for each product and output target
 - Generating PDF target documents for each product and output target
-- Generating Markdown files for each product and output target (viewable on GIT directly)
+- Generating [Markdown files](build/markdown) for each product and output target (view content on GIT directly)
 
 #Comming soon
 - RDF Metadata set
