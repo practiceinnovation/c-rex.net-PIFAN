@@ -118,9 +118,9 @@ Die Höhe des Geräts ist stufenlos einstellbar.
 
 
 
-_: Höhe einstellen_
+_Höhe einstellen_
 
-![: Höhe einstellen](../../../images/media/Stand_1_H_he_einstellen.png ": Höhe einstellen")
+![Höhe einstellen](../../../images/media/Stand_1_H_he_einstellen.png "Höhe einstellen")
 
 1. Greifen Sie die Funktionseinheit 1 am Griff auf der Oberseite.
 
@@ -166,7 +166,7 @@ Hinweis: Ein deutlich hörbares Einrastgeräusch signalisiert, dass sich der Nei
 
 ![../../../images/media/Stand_2_Neigen.png](../../../images/media/Stand_2_Neigen.png)
 
-_: Neigung einstellen_
+_Neigung einstellen_
 
 1. Greifen Sie den Ventilator am Griff auf der Oberseite.
 

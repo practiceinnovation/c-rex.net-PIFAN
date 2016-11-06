@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>c-rex.net Heterogene Datenverarbeitung</title>
+ <topicref href="urn:files:pifan/doc/dita/de/T3B.dita">
+  <topicref href="urn:files:pifan/doc/dita/de/1_Var-Sammlung.dita"/>
+  <topicref href="urn:files:pifan/doc/dita/de/2__Produktbeschreibung.dita">
+   <topicref href="urn:files:pifan/doc/dita/de/2_1_Var-Sammlung.dita"/>
+   <topicref href="urn:files:pifan/doc/dita/de/2_2_Var-Sammlung.dita"/>
+   <topicref href="xlsx2dita:/urn:files:pifan/doc/excel/de/2_3.xlsx"/>
+  </topicref>
+  <topicref href="urn:files:pifan/doc/dita/de/3__Montage.dita">
+   <topicgroup>
+    <topicref href="urn:files:pifan/doc/dita/de/3_1a.dita" product="T3-B T3-H1 T5-B T5-DH1 T5-DH2 TP-B TP-DH1 TP-DH2 " audience="EndUser Service "/>
+   </topicgroup>
+  </topicref>
+  <topicref href="urn:files:pifan/doc/dita/de/4_Inbetriebnahme.dita"/>
+  <topicref href="urn:files:pifan/doc/dita/de/5__Bedienung.dita">
+   <topicref href="urn:files:pifan/doc/dita/de/5_2_Var-Sammlung.dita"/>
+   <topicgroup>
+    <topicref href="urn:files:pifan/doc/dita/de/5_3_Var-Sammlung_A.dita" product="T3-B T3-H1 T5-B T5-DH1 T5-DH2 X3-B X3-H1 X5-B X5-D X5-DH1 X5-DH2 " audience="EndUser "/>
+   </topicgroup>
+   <topicref href="urn:files:pifan/doc/dita/de/5_4_Var-Sammlung.dita"/>
+   <topicgroup/>
+  </topicref>
+  <topicref href="urn:files:pifan/doc/dita/de/6__Wartung.dita">
+   <topicref href="urn:files:pifan/doc/dita/de/6_1.dita"/>
+  </topicref>
+  <topicref href="urn:files:pifan/doc/dita/de/7__Fehlerbehebung.dita">
+   <topicref href="urn:files:pifan/doc/dita/de/7_2_Var-Sammlung.dita">
+    <topicref href="urn:files:pifan/doc/dita/de/7_2_Var-Sammlung_ID0E4IAC_split.dita"/>
+    <topicref href="urn:files:pifan/doc/dita/de/7_2_Var-Sammlung_ID0ETHAC_split.dita"/>
+   </topicref>
+   <topicref href="urn:files:pifan/doc/dita/de/7_3.dita"/>
+   <topicref href="urn:files:pifan/doc/dita/de/7_4.dita"/>
+  </topicref>
+  <topicref href="md2dita:/urn:files:pifan/doc/markdown/de/8_Kontaktdaten.md" format="dita"/>
+  <topicref href="docx2dita:/urn:files:pifan/doc/docx/de/9_Entsorgung.docx"/>
+ </topicref>
+ <topicref href="urn:files:salesdocs.dita">
+  <topicref href="urn:files:salesoverview.dita">
+   <topicref href="xlsx2dita:/urn:files:externals/SalesReport.xlsx" format="dita"/>
+  </topicref>
+  <topicref href="urn:files:salesillu.dita">
+   <topicref href="xlsx2ditasvg:/urn:files:externals/SalesReport.xlsx" format="dita"/>
+  </topicref>
+ </topicref>
+ <topicref href="resources/mixedStuffDITAglass.dita">
+  <topicref href="html2dita:/urn:files:externals/ditaglass/care.html" format="dita"/>
+  <topicref href="md2dita:/urn:files:externals/ditaglass/sample.md" format="dita"/>
+  <topicref href="xsd2dita:/urn:files:externals/ditaglass/xsd/personal.xsd" format="dita"/>
+  <topicref href="javadoc2dita:/urn:files:externals/ditaglass/javadoc/ro/sync/ecss/component/editor/ButtonEditor.html" format="dita"/>
+  <topicref href="java2dita:/urn:files:externals/ditaglass/java/WSEditorBase.java" format="dita"/>
+  <topicref href="csv2dita:/urn:files:externals/ditaglass/sample.csv" format="dita"/>
+  <topicref href="javadoc2ditamap:/urn:files:externals/ditaglass/javadoc/ro/sync/ecss/component/RenderingInfoChangeType.html" format="ditamap"/>
+ </topicref>
+</map>

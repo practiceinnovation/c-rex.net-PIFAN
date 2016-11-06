@@ -1,0 +1,245 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="description" content="Element &#34;personnel&#34; Defines the personnel as a collection of person elements. Sequence of: p:person &lt;xs:element xmlns:xs = &#34;http://www.w3.org/2001/XMLSchema&#34; xmlns:p = ..." /><meta name="copyright" content="(C) Copyright 2016" /><meta name="DC.rights.owner" content="(C) Copyright 2016" /><meta name="DC.Type" content="topic" /><meta name="DC.Title" content="[XSD Doc] Documentation for the schema." /><meta name="DC.Relation" scheme="URI" content="resources/mixedStuffDITAglass.html" /><meta name="DC.Format" content="XHTML" /><meta name="DC.Identifier" content="tid" /><link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/commonltr.css"><!----></link><title>[XSD Doc] Documentation for the schema.</title><!--  Generated with Oxygen version 18.1, build number 2016102619.  --><link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/webhelp_topic.css"><!----></link><script type="text/javascript"><!--
+            
+            var prefix = "index.html";
+            
+            --></script><script type="text/javascript" src="oxygen-webhelp/resources/js/jquery-1.11.3.min.js"><!----></script><script type="text/javascript" src="oxygen-webhelp/resources/js/jquery.cookie.js"><!----></script><script type="text/javascript" src="oxygen-webhelp/resources/js/jquery-ui.custom.min.js"><!----></script><script type="text/javascript" src="oxygen-webhelp/resources/js/jquery.highlight-3.js"><!----></script><script type="text/javascript" charset="utf-8" src="oxygen-webhelp/resources/js/webhelp_topic.js"><!----></script></head>
+<body onload="highlightSearchTerm()" class="frmBody" id="tid">
+<header role="banner"><table class="nav"><tbody><tr><td colspan="2"><div id="printlink"><a href="javascript:window.print();" title="Print this page"></a></div><div id="permalink"><a href="#" title="Link to this page"></a></div></td></tr><tr><td style="width:75%;"><span class="topic_breadcrumb_links"><span class="topic_breadcrumb_link"><a class="navheader_parent_path" href="resources/mixedStuffDITAglass.html" title="DITA Glass ist ein Projekt von oXygen Xml Editor (by Syncro Soft). Das Beispiel ist auf GITHub verfügbar und kann dort heruntergeladen werden">Mixed formats oXygen DITA Glass</a></span></span></td><td><span id="topic_navigation_links" class="navheader">
+<span class="navparent"><a class="link" href="resources/mixedStuffDITAglass.html" title="DITA Glass ist ein Projekt von oXygen Xml Editor (by Syncro Soft). Das Beispiel ist auf GITHub verfügbar und kann dort heruntergeladen werden"><span class="navheader_label">Parent topic</span><span class="navheader_separator">: </span><span class="navheader_linktext">Mixed formats oXygen DITA Glass</span></a></span>  </span></td></tr></tbody></table></header><main role="main"><article role="article" aria-labelledby="ariaid-title1">
+   <h1 class="title topictitle1" id="ariaid-title1">
+                [XSD Doc] Documentation for the schema.
+            </h1>
+
+   <div class="body">
+      <section class="section" id="tid__personnel"><h2 class="title sectiontitle">Element "personnel"</h2>
+         
+         <p class="p">Defines the personnel as a collection of person elements.</p>
+
+         <p class="p">
+                     Sequence of:
+                 <a class="xref" href="#tid__person">p:person</a>
+         </p>
+
+         <pre class="pre codeblock language-xml"><strong class="hl-tag" style="color:#000096">&lt;xs:element</strong> <span class="hl-attribute" style="color: #ff7935">xmlns:xs</span>=<span class="hl-value" style="color: #993300">"http://www.w3.org/2001/XMLSchema"</span>
+                        <span class="hl-attribute" style="color: #ff7935">xmlns:p</span>=<span class="hl-value" style="color: #993300">"http://www.oxygenxml.com/ns/samples/personal"</span>
+                        <span class="hl-attribute" style="color: #ff7935">name</span>=<span class="hl-value" style="color: #993300">"personnel"</span><strong class="hl-tag" style="color:#000096">&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;xs:annotation&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:documentation&gt;</strong>Defines the personnel as a collection of person elements.<strong class="hl-tag" style="color:#000096">&lt;/xs:documentation&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;/xs:annotation&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;xs:complexType&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:sequence&gt;</strong>
+                     <strong class="hl-tag" style="color:#000096">&lt;xs:element</strong> <span class="hl-attribute" style="color: #ff7935">ref</span>=<span class="hl-value" style="color: #993300">"p:person"</span> <span class="hl-attribute" style="color: #ff7935">minOccurs</span>=<span class="hl-value" style="color: #993300">"1"</span> <span class="hl-attribute" style="color: #ff7935">maxOccurs</span>=<span class="hl-value" style="color: #993300">"unbounded"</span><strong class="hl-tag" style="color:#000096">/&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;/xs:sequence&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;/xs:complexType&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;xs:unique</strong> <span class="hl-attribute" style="color: #ff7935">name</span>=<span class="hl-value" style="color: #993300">"unique1"</span><strong class="hl-tag" style="color:#000096">&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:selector</strong> <span class="hl-attribute" style="color: #ff7935">xpath</span>=<span class="hl-value" style="color: #993300">"p:person"</span><strong class="hl-tag" style="color:#000096">/&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:field</strong> <span class="hl-attribute" style="color: #ff7935">xpath</span>=<span class="hl-value" style="color: #993300">"p:name/p:given"</span><strong class="hl-tag" style="color:#000096">/&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:field</strong> <span class="hl-attribute" style="color: #ff7935">xpath</span>=<span class="hl-value" style="color: #993300">"p:name/p:family"</span><strong class="hl-tag" style="color:#000096">/&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;/xs:unique&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;xs:key</strong> <span class="hl-attribute" style="color: #ff7935">name</span>=<span class="hl-value" style="color: #993300">"empid"</span><strong class="hl-tag" style="color:#000096">&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:selector</strong> <span class="hl-attribute" style="color: #ff7935">xpath</span>=<span class="hl-value" style="color: #993300">"p:person"</span><strong class="hl-tag" style="color:#000096">/&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:field</strong> <span class="hl-attribute" style="color: #ff7935">xpath</span>=<span class="hl-value" style="color: #993300">"@id"</span><strong class="hl-tag" style="color:#000096">/&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;/xs:key&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;xs:keyref</strong> <span class="hl-attribute" style="color: #ff7935">name</span>=<span class="hl-value" style="color: #993300">"keyref1"</span> <span class="hl-attribute" style="color: #ff7935">refer</span>=<span class="hl-value" style="color: #993300">"p:empid"</span><strong class="hl-tag" style="color:#000096">&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:selector</strong> <span class="hl-attribute" style="color: #ff7935">xpath</span>=<span class="hl-value" style="color: #993300">"p:person"</span><strong class="hl-tag" style="color:#000096">/&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:field</strong> <span class="hl-attribute" style="color: #ff7935">xpath</span>=<span class="hl-value" style="color: #993300">"p:link/@manager"</span><strong class="hl-tag" style="color:#000096">/&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;/xs:keyref&gt;</strong>
+            <strong class="hl-tag" style="color:#000096">&lt;/xs:element&gt;</strong></pre>
+
+      </section>
+
+      <section class="section" id="tid__person"><h2 class="title sectiontitle">Element "person"</h2>
+         
+         <p class="p">Specifies information about a person.</p>
+
+         <p class="p">
+                     Sequence of:
+                 <a class="xref" href="#tid__name">p:name</a>, <a class="xref" href="#tid__email">p:email</a>, <a class="xref" href="#tid__link">p:link</a>, <a class="xref" href="#tid__url">p:url</a>
+         </p>
+
+         <pre class="pre codeblock language-xml"><strong class="hl-tag" style="color:#000096">&lt;xs:element</strong> <span class="hl-attribute" style="color: #ff7935">xmlns:xs</span>=<span class="hl-value" style="color: #993300">"http://www.w3.org/2001/XMLSchema"</span>
+                        <span class="hl-attribute" style="color: #ff7935">xmlns:p</span>=<span class="hl-value" style="color: #993300">"http://www.oxygenxml.com/ns/samples/personal"</span>
+                        <span class="hl-attribute" style="color: #ff7935">name</span>=<span class="hl-value" style="color: #993300">"person"</span><strong class="hl-tag" style="color:#000096">&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;xs:annotation&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:documentation&gt;</strong>Specifies information about a person.<strong class="hl-tag" style="color:#000096">&lt;/xs:documentation&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;/xs:annotation&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;xs:complexType&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:sequence&gt;</strong>
+                     <strong class="hl-tag" style="color:#000096">&lt;xs:element</strong> <span class="hl-attribute" style="color: #ff7935">ref</span>=<span class="hl-value" style="color: #993300">"p:name"</span><strong class="hl-tag" style="color:#000096">/&gt;</strong>
+                     <strong class="hl-tag" style="color:#000096">&lt;xs:element</strong> <span class="hl-attribute" style="color: #ff7935">ref</span>=<span class="hl-value" style="color: #993300">"p:email"</span> <span class="hl-attribute" style="color: #ff7935">minOccurs</span>=<span class="hl-value" style="color: #993300">"0"</span> <span class="hl-attribute" style="color: #ff7935">maxOccurs</span>=<span class="hl-value" style="color: #993300">"unbounded"</span><strong class="hl-tag" style="color:#000096">/&gt;</strong>
+                     <strong class="hl-tag" style="color:#000096">&lt;xs:element</strong> <span class="hl-attribute" style="color: #ff7935">ref</span>=<span class="hl-value" style="color: #993300">"p:link"</span> <span class="hl-attribute" style="color: #ff7935">minOccurs</span>=<span class="hl-value" style="color: #993300">"0"</span> <span class="hl-attribute" style="color: #ff7935">maxOccurs</span>=<span class="hl-value" style="color: #993300">"1"</span><strong class="hl-tag" style="color:#000096">/&gt;</strong>
+                     <strong class="hl-tag" style="color:#000096">&lt;xs:element</strong> <span class="hl-attribute" style="color: #ff7935">ref</span>=<span class="hl-value" style="color: #993300">"p:url"</span> <span class="hl-attribute" style="color: #ff7935">minOccurs</span>=<span class="hl-value" style="color: #993300">"0"</span> <span class="hl-attribute" style="color: #ff7935">maxOccurs</span>=<span class="hl-value" style="color: #993300">"unbounded"</span><strong class="hl-tag" style="color:#000096">/&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;/xs:sequence&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:attribute</strong> <span class="hl-attribute" style="color: #ff7935">name</span>=<span class="hl-value" style="color: #993300">"id"</span> <span class="hl-attribute" style="color: #ff7935">type</span>=<span class="hl-value" style="color: #993300">"xs:ID"</span> <span class="hl-attribute" style="color: #ff7935">use</span>=<span class="hl-value" style="color: #993300">"required"</span><strong class="hl-tag" style="color:#000096">&gt;</strong>
+                     <strong class="hl-tag" style="color:#000096">&lt;xs:annotation&gt;</strong>
+                        <strong class="hl-tag" style="color:#000096">&lt;xs:documentation&gt;</strong>Specifies a required unique ID for this person.<strong class="hl-tag" style="color:#000096">&lt;/xs:documentation&gt;</strong>
+                     <strong class="hl-tag" style="color:#000096">&lt;/xs:annotation&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;/xs:attribute&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:attribute</strong> <span class="hl-attribute" style="color: #ff7935">name</span>=<span class="hl-value" style="color: #993300">"note"</span> <span class="hl-attribute" style="color: #ff7935">type</span>=<span class="hl-value" style="color: #993300">"xs:string"</span><strong class="hl-tag" style="color:#000096">&gt;</strong>
+                     <strong class="hl-tag" style="color:#000096">&lt;xs:annotation&gt;</strong>
+                        <strong class="hl-tag" style="color:#000096">&lt;xs:documentation&gt;</strong>If there is anything to note about this person.<strong class="hl-tag" style="color:#000096">&lt;/xs:documentation&gt;</strong>
+                     <strong class="hl-tag" style="color:#000096">&lt;/xs:annotation&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;/xs:attribute&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:attribute</strong> <span class="hl-attribute" style="color: #ff7935">name</span>=<span class="hl-value" style="color: #993300">"contr"</span> <span class="hl-attribute" style="color: #ff7935">default</span>=<span class="hl-value" style="color: #993300">"false"</span><strong class="hl-tag" style="color:#000096">&gt;</strong>
+                     <strong class="hl-tag" style="color:#000096">&lt;xs:simpleType&gt;</strong>
+                        <strong class="hl-tag" style="color:#000096">&lt;xs:restriction</strong> <span class="hl-attribute" style="color: #ff7935">base</span>=<span class="hl-value" style="color: #993300">"xs:string"</span><strong class="hl-tag" style="color:#000096">&gt;</strong>
+                           <strong class="hl-tag" style="color:#000096">&lt;xs:enumeration</strong> <span class="hl-attribute" style="color: #ff7935">value</span>=<span class="hl-value" style="color: #993300">"true"</span><strong class="hl-tag" style="color:#000096">/&gt;</strong>
+                           <strong class="hl-tag" style="color:#000096">&lt;xs:enumeration</strong> <span class="hl-attribute" style="color: #ff7935">value</span>=<span class="hl-value" style="color: #993300">"false"</span><strong class="hl-tag" style="color:#000096">/&gt;</strong>
+                        <strong class="hl-tag" style="color:#000096">&lt;/xs:restriction&gt;</strong>
+                     <strong class="hl-tag" style="color:#000096">&lt;/xs:simpleType&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;/xs:attribute&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:attribute</strong> <span class="hl-attribute" style="color: #ff7935">name</span>=<span class="hl-value" style="color: #993300">"salary"</span> <span class="hl-attribute" style="color: #ff7935">type</span>=<span class="hl-value" style="color: #993300">"xs:integer"</span><strong class="hl-tag" style="color:#000096">&gt;</strong>
+                     <strong class="hl-tag" style="color:#000096">&lt;xs:annotation&gt;</strong>
+                        <strong class="hl-tag" style="color:#000096">&lt;xs:documentation&gt;</strong>Specifies the salary for this person.<strong class="hl-tag" style="color:#000096">&lt;/xs:documentation&gt;</strong>
+                     <strong class="hl-tag" style="color:#000096">&lt;/xs:annotation&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;/xs:attribute&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:attribute</strong> <span class="hl-attribute" style="color: #ff7935">name</span>=<span class="hl-value" style="color: #993300">"photo"</span> <span class="hl-attribute" style="color: #ff7935">type</span>=<span class="hl-value" style="color: #993300">"xs:string"</span><strong class="hl-tag" style="color:#000096">/&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;/xs:complexType&gt;</strong>
+            <strong class="hl-tag" style="color:#000096">&lt;/xs:element&gt;</strong></pre>
+
+      </section>
+
+      <section class="section" id="tid__name"><h2 class="title sectiontitle">Element "name"</h2>
+         
+         <p class="p">Specifies the person family and given name.</p>
+
+         <p class="p">
+                     All of:
+                 <a class="xref" href="#tid__family">p:family</a>, <a class="xref" href="#tid__given">p:given</a>
+         </p>
+
+         <pre class="pre codeblock language-xml"><strong class="hl-tag" style="color:#000096">&lt;xs:element</strong> <span class="hl-attribute" style="color: #ff7935">xmlns:xs</span>=<span class="hl-value" style="color: #993300">"http://www.w3.org/2001/XMLSchema"</span>
+                        <span class="hl-attribute" style="color: #ff7935">xmlns:p</span>=<span class="hl-value" style="color: #993300">"http://www.oxygenxml.com/ns/samples/personal"</span>
+                        <span class="hl-attribute" style="color: #ff7935">name</span>=<span class="hl-value" style="color: #993300">"name"</span><strong class="hl-tag" style="color:#000096">&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;xs:annotation&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:documentation&gt;</strong>Specifies the person family and given name.<strong class="hl-tag" style="color:#000096">&lt;/xs:documentation&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;/xs:annotation&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;xs:complexType&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:all&gt;</strong>
+                     <strong class="hl-tag" style="color:#000096">&lt;xs:element</strong> <span class="hl-attribute" style="color: #ff7935">ref</span>=<span class="hl-value" style="color: #993300">"p:family"</span><strong class="hl-tag" style="color:#000096">/&gt;</strong>
+                     <strong class="hl-tag" style="color:#000096">&lt;xs:element</strong> <span class="hl-attribute" style="color: #ff7935">ref</span>=<span class="hl-value" style="color: #993300">"p:given"</span><strong class="hl-tag" style="color:#000096">/&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;/xs:all&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;/xs:complexType&gt;</strong>
+            <strong class="hl-tag" style="color:#000096">&lt;/xs:element&gt;</strong></pre>
+
+      </section>
+
+      <section class="section" id="tid__family"><h2 class="title sectiontitle">Element "family"</h2>
+         
+         <p class="p">The person last name.</p>
+
+         <p class="p">
+                     Type: <strong class="ph b">p:normalizable</strong>
+         </p>
+
+         <pre class="pre codeblock language-xml"><strong class="hl-tag" style="color:#000096">&lt;xs:element</strong> <span class="hl-attribute" style="color: #ff7935">xmlns:xs</span>=<span class="hl-value" style="color: #993300">"http://www.w3.org/2001/XMLSchema"</span>
+                        <span class="hl-attribute" style="color: #ff7935">xmlns:p</span>=<span class="hl-value" style="color: #993300">"http://www.oxygenxml.com/ns/samples/personal"</span>
+                        <span class="hl-attribute" style="color: #ff7935">name</span>=<span class="hl-value" style="color: #993300">"family"</span>
+                        <span class="hl-attribute" style="color: #ff7935">type</span>=<span class="hl-value" style="color: #993300">"p:normalizable"</span><strong class="hl-tag" style="color:#000096">&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;xs:annotation&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:documentation&gt;</strong>The person last name.<strong class="hl-tag" style="color:#000096">&lt;/xs:documentation&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;/xs:annotation&gt;</strong>
+            <strong class="hl-tag" style="color:#000096">&lt;/xs:element&gt;</strong></pre>
+
+      </section>
+
+      <section class="section" id="tid__given"><h2 class="title sectiontitle">Element "given"</h2>
+         
+         <p class="p">The person first name.</p>
+
+         <p class="p">
+                     Type: <strong class="ph b">p:normalizable</strong>
+         </p>
+
+         <pre class="pre codeblock language-xml"><strong class="hl-tag" style="color:#000096">&lt;xs:element</strong> <span class="hl-attribute" style="color: #ff7935">xmlns:xs</span>=<span class="hl-value" style="color: #993300">"http://www.w3.org/2001/XMLSchema"</span>
+                        <span class="hl-attribute" style="color: #ff7935">xmlns:p</span>=<span class="hl-value" style="color: #993300">"http://www.oxygenxml.com/ns/samples/personal"</span>
+                        <span class="hl-attribute" style="color: #ff7935">name</span>=<span class="hl-value" style="color: #993300">"given"</span>
+                        <span class="hl-attribute" style="color: #ff7935">type</span>=<span class="hl-value" style="color: #993300">"p:normalizable"</span><strong class="hl-tag" style="color:#000096">&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;xs:annotation&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:documentation&gt;</strong>The person first name.<strong class="hl-tag" style="color:#000096">&lt;/xs:documentation&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;/xs:annotation&gt;</strong>
+            <strong class="hl-tag" style="color:#000096">&lt;/xs:element&gt;</strong></pre>
+
+      </section>
+
+      <section class="section" id="tid__email"><h2 class="title sectiontitle">Element "email"</h2>
+         
+         <p class="p">Email address for this person.</p>
+
+         <p class="p">
+                     Type: <strong class="ph b">p:normalizable</strong>
+         </p>
+
+         <pre class="pre codeblock language-xml"><strong class="hl-tag" style="color:#000096">&lt;xs:element</strong> <span class="hl-attribute" style="color: #ff7935">xmlns:xs</span>=<span class="hl-value" style="color: #993300">"http://www.w3.org/2001/XMLSchema"</span>
+                        <span class="hl-attribute" style="color: #ff7935">xmlns:p</span>=<span class="hl-value" style="color: #993300">"http://www.oxygenxml.com/ns/samples/personal"</span>
+                        <span class="hl-attribute" style="color: #ff7935">name</span>=<span class="hl-value" style="color: #993300">"email"</span>
+                        <span class="hl-attribute" style="color: #ff7935">type</span>=<span class="hl-value" style="color: #993300">"p:normalizable"</span><strong class="hl-tag" style="color:#000096">&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;xs:annotation&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:documentation&gt;</strong>Email address for this person.<strong class="hl-tag" style="color:#000096">&lt;/xs:documentation&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;/xs:annotation&gt;</strong>
+            <strong class="hl-tag" style="color:#000096">&lt;/xs:element&gt;</strong></pre>
+
+      </section>
+
+      <section class="section" id="tid__url"><h2 class="title sectiontitle">Element "url"</h2>
+         
+         <p class="p">Enter an URL for this person.</p>
+
+         <p class="p"></p>
+
+         <pre class="pre codeblock language-xml"><strong class="hl-tag" style="color:#000096">&lt;xs:element</strong> <span class="hl-attribute" style="color: #ff7935">xmlns:xs</span>=<span class="hl-value" style="color: #993300">"http://www.w3.org/2001/XMLSchema"</span>
+                        <span class="hl-attribute" style="color: #ff7935">xmlns:p</span>=<span class="hl-value" style="color: #993300">"http://www.oxygenxml.com/ns/samples/personal"</span>
+                        <span class="hl-attribute" style="color: #ff7935">name</span>=<span class="hl-value" style="color: #993300">"url"</span><strong class="hl-tag" style="color:#000096">&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;xs:annotation&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:documentation&gt;</strong>Enter an URL for this person.<strong class="hl-tag" style="color:#000096">&lt;/xs:documentation&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;/xs:annotation&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;xs:complexType&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:attribute</strong> <span class="hl-attribute" style="color: #ff7935">name</span>=<span class="hl-value" style="color: #993300">"href"</span> <span class="hl-attribute" style="color: #ff7935">type</span>=<span class="hl-value" style="color: #993300">"xs:string"</span> <span class="hl-attribute" style="color: #ff7935">default</span>=<span class="hl-value" style="color: #993300">"http://"</span><strong class="hl-tag" style="color:#000096">&gt;</strong>
+                     <strong class="hl-tag" style="color:#000096">&lt;xs:annotation&gt;</strong>
+                        <strong class="hl-tag" style="color:#000096">&lt;xs:documentation&gt;</strong>Enter an URL for this person.<strong class="hl-tag" style="color:#000096">&lt;/xs:documentation&gt;</strong>
+                     <strong class="hl-tag" style="color:#000096">&lt;/xs:annotation&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;/xs:attribute&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;/xs:complexType&gt;</strong>
+            <strong class="hl-tag" style="color:#000096">&lt;/xs:element&gt;</strong></pre>
+
+      </section>
+
+      <section class="section" id="tid__link"><h2 class="title sectiontitle">Element "link"</h2>
+         
+         <p class="p">Specifies who is the manager and who are the subordinates for this person.</p>
+
+         <p class="p"></p>
+
+         <pre class="pre codeblock language-xml"><strong class="hl-tag" style="color:#000096">&lt;xs:element</strong> <span class="hl-attribute" style="color: #ff7935">xmlns:xs</span>=<span class="hl-value" style="color: #993300">"http://www.w3.org/2001/XMLSchema"</span>
+                        <span class="hl-attribute" style="color: #ff7935">xmlns:p</span>=<span class="hl-value" style="color: #993300">"http://www.oxygenxml.com/ns/samples/personal"</span>
+                        <span class="hl-attribute" style="color: #ff7935">name</span>=<span class="hl-value" style="color: #993300">"link"</span><strong class="hl-tag" style="color:#000096">&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;xs:annotation&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:documentation&gt;</strong>Specifies who is the manager and who are the subordinates for this person.<strong class="hl-tag" style="color:#000096">&lt;/xs:documentation&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;/xs:annotation&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;xs:complexType&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:attribute</strong> <span class="hl-attribute" style="color: #ff7935">name</span>=<span class="hl-value" style="color: #993300">"manager"</span> <span class="hl-attribute" style="color: #ff7935">type</span>=<span class="hl-value" style="color: #993300">"xs:IDREF"</span><strong class="hl-tag" style="color:#000096">&gt;</strong>
+                     <strong class="hl-tag" style="color:#000096">&lt;xs:annotation&gt;</strong>
+                        <strong class="hl-tag" style="color:#000096">&lt;xs:documentation&gt;</strong>The manager ID.<strong class="hl-tag" style="color:#000096">&lt;/xs:documentation&gt;</strong>
+                     <strong class="hl-tag" style="color:#000096">&lt;/xs:annotation&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;/xs:attribute&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;xs:attribute</strong> <span class="hl-attribute" style="color: #ff7935">name</span>=<span class="hl-value" style="color: #993300">"subordinates"</span> <span class="hl-attribute" style="color: #ff7935">type</span>=<span class="hl-value" style="color: #993300">"xs:IDREFS"</span><strong class="hl-tag" style="color:#000096">&gt;</strong>
+                     <strong class="hl-tag" style="color:#000096">&lt;xs:annotation&gt;</strong>
+                        <strong class="hl-tag" style="color:#000096">&lt;xs:documentation&gt;</strong>Space separated list with the subordinates IDs.<strong class="hl-tag" style="color:#000096">&lt;/xs:documentation&gt;</strong>
+                     <strong class="hl-tag" style="color:#000096">&lt;/xs:annotation&gt;</strong>
+                  <strong class="hl-tag" style="color:#000096">&lt;/xs:attribute&gt;</strong>
+               <strong class="hl-tag" style="color:#000096">&lt;/xs:complexType&gt;</strong>
+            <strong class="hl-tag" style="color:#000096">&lt;/xs:element&gt;</strong></pre>
+
+      </section>
+
+   </div>
+
+<nav role="navigation" class="related-links"></nav></article></main><footer role="contentinfo"><div class="navfooter"><!---->
+<span class="navparent"><a class="link" href="resources/mixedStuffDITAglass.html" title="DITA Glass ist ein Projekt von oXygen Xml Editor (by Syncro Soft). Das Beispiel ist auf GITHub verfügbar und kann dort heruntergeladen werden"><span class="navheader_label">Parent topic</span><span class="navheader_separator">: </span><span class="navheader_linktext">Mixed formats oXygen DITA Glass</span></a></span>  </div><div class="footer" id="webhelp_copyright_information">WebHelp output generated by<a class="oxyFooter" href="http://www.oxygenxml.com" target="_blank">
+                            &lt;oXygen/&gt; XML Author
+                        </a></div></footer></body>
+</html>

@@ -102,9 +102,9 @@ Sicherheitshinweise
 
 
 
-_: Schutzgitter-Rückseite montieren_
+_Schutzgitter-Rückseite montieren_
 
-![: Schutzgitter-Rückseite montieren](../../../images/media/Tisch_1_Schutzgitter_R_ckseite_Num.png ": Schutzgitter-Rückseite montieren")
+![Schutzgitter-Rückseite montieren](../../../images/media/Tisch_1_Schutzgitter_R_ckseite_Num.png "Schutzgitter-Rückseite montieren")
 
 1. Schieben Sie die Schutzgitter-Rückseite 1 auf den Antrieb 2, wie in  zu sehen.
 
@@ -112,9 +112,9 @@ _: Schutzgitter-Rückseite montieren_
 
     ► Die Schutzgitterrückseite ist nun montiert.
 
-_: Rotor montieren_
+_Rotor montieren_
 
-![: Rotor montieren](../../../images/media/Tisch_2_Rotor_Num.png ": Rotor montieren")
+![Rotor montieren](../../../images/media/Tisch_2_Rotor_Num.png "Rotor montieren")
 
 3. Schieben Sie die Befestigungsschraube 4 durch den Rotor 5.
 
@@ -122,9 +122,9 @@ _: Rotor montieren_
 
     ► Der Rotor ist nun montiert.
 
-_: Schutzgitter-Vorderseite montieren_
+_Schutzgitter-Vorderseite montieren_
 
-![: Schutzgitter-Vorderseite montieren](../../../images/media/Tisch_3_Schutzgitter_Vorderseite_Num.png ": Schutzgitter-Vorderseite montieren")
+![Schutzgitter-Vorderseite montieren](../../../images/media/Tisch_3_Schutzgitter_Vorderseite_Num.png "Schutzgitter-Vorderseite montieren")
 
 5. Legen Sie die Schutzgitter-Vorderseite 6 an die Schutzgitter-Rückseite 1, welche Sie bereits montiert haben, wie in  zu sehen.
 
@@ -158,9 +158,9 @@ _: Bodenständer montieren_
 
     ► Die Teleskopstange ist nun am Bodenständer befestigt.
 
-_: Teleskopstange mit Funktionseinheit verbinden_
+_Teleskopstange mit Funktionseinheit verbinden_
 
-![: Teleskopstange mit Funktionseinheit verbinden](../../../images/media/Stand_6_Teleskopstange.png ": Teleskopstange mit Funktionseinheit verbinden")
+![Teleskopstange mit Funktionseinheit verbinden](../../../images/media/Stand_6_Teleskopstange.png "Teleskopstange mit Funktionseinheit verbinden")
 
 4. Stecken Sie die Funktionseinheit 5, an der Sie bereits das Schutzgitter und den Rotor montiert haben, auf die Teleskopstange, wie in  zu sehen
 
@@ -172,9 +172,9 @@ _: Teleskopstange mit Funktionseinheit verbinden_
 
 ► 
 
-_: Gerät fertig montiert_
+_Gerät fertig montiert_
 
-![: Gerät fertig montiert](../../../images/media/Montage_Stand_Fertig.png ": Gerät fertig montiert")
+![Gerät fertig montiert](../../../images/media/Montage_Stand_Fertig.png "Gerät fertig montiert")
 
 Sie haben das Gerät nun vollständig montiert und können es nun in Betrieb nehmen.
 

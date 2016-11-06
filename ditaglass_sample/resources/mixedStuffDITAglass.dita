@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_y43_qvb_wx">
+ <title>Mixed formats oXygen DITA Glass</title>
+ <shortdesc>DITA Glass ist ein Projekt von oXygen Xml Editor (by Syncro Soft). Das Beispiel ist auf <xref href="https://github.com/oxygenxml/dita-glass" format="html" scope="external">GITHub</xref> verfügbar und kann dort heruntergeladen werden</shortdesc>
+</concept>

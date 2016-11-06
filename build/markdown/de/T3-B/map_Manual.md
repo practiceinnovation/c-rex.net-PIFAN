@@ -96,9 +96,9 @@ Sicherheitshinweise
 
 
 
-_: Schutzgitter-Rückseite montieren_
+_Schutzgitter-Rückseite montieren_
 
-![: Schutzgitter-Rückseite montieren](../../../images/media/Stand_1_Schutzgitter_Num_3_1.png ": Schutzgitter-Rückseite montieren")
+![Schutzgitter-Rückseite montieren](../../../images/media/Stand_1_Schutzgitter_Num_3_1.png "Schutzgitter-Rückseite montieren")
 
 1. Schieben Sie die Schutzgitter-Rückseite 1 auf den Antrieb 2, wie in  zu sehen.
 
@@ -106,9 +106,9 @@ _: Schutzgitter-Rückseite montieren_
 
     ► Die Schutzgitterrückseite ist nun montiert.
 
-_: Rotor montieren_
+_Rotor montieren_
 
-![: Rotor montieren](../../../images/media/Stand_2_Rotor_Num.png ": Rotor montieren")
+![Rotor montieren](../../../images/media/Stand_2_Rotor_Num.png "Rotor montieren")
 
 3. Schieben Sie die Befestigungsschraube 4 durch den Rotor 5.
 
@@ -116,9 +116,9 @@ _: Rotor montieren_
 
     ► Der Rotor ist nun montiert.
 
-_: Schutzgitter-Vorderseite montieren_
+_Schutzgitter-Vorderseite montieren_
 
-![: Schutzgitter-Vorderseite montieren](../../../images/media/Stand_3_Schutzgitter_Vorderseite_Num.png ": Schutzgitter-Vorderseite montieren")
+![Schutzgitter-Vorderseite montieren](../../../images/media/Stand_3_Schutzgitter_Vorderseite_Num.png "Schutzgitter-Vorderseite montieren")
 
 5. Legen Sie die Schutzgitter-Vorderseite 6 an die Schutzgitter-Rückseite 1, welche Sie bereits montiert haben, wie in  zu sehen.
 
@@ -128,9 +128,9 @@ _: Schutzgitter-Vorderseite montieren_
 
 ► 
 
-_: Rotor montiert_
+_Rotor montiert_
 
-![: Rotor montiert](../../../images/media/Montage_Stand_Ventilatorkopf_Fertig.png ": Rotor montiert")
+![Rotor montiert](../../../images/media/Montage_Stand_Ventilatorkopf_Fertig.png "Rotor montiert")
 
 Sie haben den Rotor und das Schutzgitter nun fertig montiert.
 
@@ -192,7 +192,7 @@ Hinweis: Ein deutlich hörbares Einrastgeräusch signalisiert, dass sich der Nei
 
 ![../../../images/media/Neigen_Stand.png](../../../images/media/Neigen_Stand.png)
 
-_: Neigung einstellen_
+_Neigung einstellen_
 
 1. Greifen Sie den Ventilator am Griff auf der Oberseite.
 

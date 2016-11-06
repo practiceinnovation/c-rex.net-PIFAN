@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept_pwb_lgc_wx" path="resources/pifan/doc/dita/de/T3B.html"/>
+   <appContext helpID="ID0EKGAC"
+               path="resources/pifan/doc/dita/de/1_Var-Sammlung.html"/>
+   <appContext helpID="ID0EKGAC"
+               path="resources/pifan/doc/dita/de/2__Produktbeschreibung.html"/>
+   <appContext helpID="ID0E6FAC"
+               path="resources/pifan/doc/dita/de/2_1_Var-Sammlung.html"/>
+   <appContext helpID="ID0E6FAC"
+               path="resources/pifan/doc/dita/de/2_2_Var-Sammlung.html"/>
+   <appContext helpID="ID0ED" path="2_3.html"/>
+   <appContext helpID="ID0ENGAC" path="resources/pifan/doc/dita/de/3__Montage.html"/>
+   <appContext helpID="ID0EGH" path="resources/pifan/doc/dita/de/3_1a.html"/>
+   <appContext helpID="ID0ECGAC"
+               path="resources/pifan/doc/dita/de/4_Inbetriebnahme.html"/>
+   <appContext helpID="ID0EIGAC" path="resources/pifan/doc/dita/de/5__Bedienung.html"/>
+   <appContext helpID="ID0EFGAC"
+               path="resources/pifan/doc/dita/de/5_2_Var-Sammlung.html"/>
+   <appContext helpID="ID0EHBAC"
+               path="resources/pifan/doc/dita/de/5_3_Var-Sammlung_A.html"/>
+   <appContext helpID="ID0EIGAC"
+               path="resources/pifan/doc/dita/de/5_4_Var-Sammlung.html"/>
+   <appContext helpID="ID0ENGAC" path="resources/pifan/doc/dita/de/6__Wartung.html"/>
+   <appContext helpID="ID0ENGAC" path="resources/pifan/doc/dita/de/6_1.html"/>
+   <appContext helpID="ID0ENGAC"
+               path="resources/pifan/doc/dita/de/7__Fehlerbehebung.html"/>
+   <appContext helpID="ID0EKGAC"
+               path="resources/pifan/doc/dita/de/7_2_Var-Sammlung.html"/>
+   <appContext helpID="ID0E4IAC"
+               path="resources/pifan/doc/dita/de/7_2_Var-Sammlung_ID0E4IAC_split.html"/>
+   <appContext helpID="ID0ETHAC"
+               path="resources/pifan/doc/dita/de/7_2_Var-Sammlung_ID0ETHAC_split.html"/>
+   <appContext helpID="ID0EIGAC" path="resources/pifan/doc/dita/de/7_3.html"/>
+   <appContext helpID="ID0EIGAC" path="resources/pifan/doc/dita/de/7_4.html"/>
+   <appContext helpID="topic1252" path="8_Kontaktdaten.html"/>
+   <appContext helpID="ID0EE" path="9_Entsorgung.html"/>
+   <appContext helpID="concept_y43_qvb_wx" path="resources/salesdocs.html"/>
+   <appContext helpID="concept_fgb_yvb_wx" path="resources/salesoverview.html"/>
+   <appContext helpID="ID0EC" path="SalesReport.html"/>
+   <appContext helpID="concept_fgb_yvb_wx" path="resources/salesillu.html"/>
+   <appContext helpID="ID0EC" path="SalesReport-1.html"/>
+   <appContext helpID="concept_y43_qvb_wx" path="resources/mixedStuffDITAglass.html"/>
+   <appContext helpID="topic530" path="care.html"/>
+   <appContext helpID="topic202" path="sample.html"/>
+   <appContext helpID="tid" path="personal.html"/>
+   <appContext helpID="tid" path="ButtonEditor.html"/>
+   <appContext helpID="WSEditorBase" path="WSEditorBase.html"/>
+   <appContext helpID="csv" path="sample-1.html"/>
+</map>

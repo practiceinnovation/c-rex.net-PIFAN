@@ -1,0 +1,388 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />        
+      <meta name="copyright" content="(C) Copyright 2016" /><meta name="DC.rights.owner" content="(C) Copyright 2016" /><meta name="DC.Type" content="topic" /><meta name="DC.Title" content="[Java] Documentation for &#34;WSEditorBase&#34;" /><meta name="abstract" content="Provides access to methods related to the editor actions and information. @since 11.2" /><meta name="description" content="Provides access to methods related to the editor actions and information. @since 11.2" /><meta name="DC.Relation" scheme="URI" content="resources/mixedStuffDITAglass.html" /><meta name="DC.Format" content="XHTML" /><meta name="DC.Identifier" content="WSEditorBase" /><link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/commonltr.css"><!----></link><title>[Java] Documentation for "WSEditorBase"</title><!--  Generated with Oxygen version 18.1, build number 2016102619.  --><link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/webhelp_topic.css"><!----></link><script type="text/javascript"><!--
+            
+            var prefix = "index.html";
+            
+            --></script><script type="text/javascript" src="oxygen-webhelp/resources/js/jquery-1.11.3.min.js"><!----></script><script type="text/javascript" src="oxygen-webhelp/resources/js/jquery.cookie.js"><!----></script><script type="text/javascript" src="oxygen-webhelp/resources/js/jquery-ui.custom.min.js"><!----></script><script type="text/javascript" src="oxygen-webhelp/resources/js/jquery.highlight-3.js"><!----></script><script type="text/javascript" charset="utf-8" src="oxygen-webhelp/resources/js/webhelp_topic.js"><!----></script></head>
+<body onload="highlightSearchTerm()" class="frmBody" id="WSEditorBase">
+<header role="banner"><table class="nav"><tbody><tr><td colspan="2"><div id="printlink"><a href="javascript:window.print();" title="Print this page"></a></div><div id="permalink"><a href="#" title="Link to this page"></a></div></td></tr><tr><td style="width:75%;"><span class="topic_breadcrumb_links"><span class="topic_breadcrumb_link"><a class="navheader_parent_path" href="resources/mixedStuffDITAglass.html" title="DITA Glass ist ein Projekt von oXygen Xml Editor (by Syncro Soft). Das Beispiel ist auf GITHub verfügbar und kann dort heruntergeladen werden">Mixed formats oXygen DITA Glass</a></span></span></td><td><span id="topic_navigation_links" class="navheader">
+<span class="navparent"><a class="link" href="resources/mixedStuffDITAglass.html" title="DITA Glass ist ein Projekt von oXygen Xml Editor (by Syncro Soft). Das Beispiel ist auf GITHub verfügbar und kann dort heruntergeladen werden"><span class="navheader_label">Parent topic</span><span class="navheader_separator">: </span><span class="navheader_linktext">Mixed formats oXygen DITA Glass</span></a></span>  </span></td></tr></tbody></table></header><main role="main"><article role="article" aria-labelledby="ariaid-title1">
+   <h1 class="title topictitle1" id="ariaid-title1">
+                [Java] Documentation for "WSEditorBase"
+            </h1>
+
+   
+   <div class="body"><p class="shortdesc">
+ Provides access to methods related to the editor actions and information.
+ 
+ @since 11.2 
+ </p>
+
+      <section class="section" id="WSEditorBase__method_URL_getEditorLocation__"><h2 class="title sectiontitle">Method "getEditorLocation"</h2>
+         
+         <div style="display: block; border: 1 black solid; padding: 2pt; color: maroon; margin-bottom: 6pt;">
+            <h3>Declaration</h3>
+             
+               <kbd><b>URL</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>getEditorLocation</b></kbd>
+               <kbd class="ph sep">(</kbd>
+               <kbd class="ph sep">)</kbd>
+             
+         </div>
+         <pre class="pre" id="WSEditorBase__comment_method_URL_getEditorLocation__">
+   Get the {@link URL} representing the editor location.
+   
+   @return The editor location. It cannot be &lt;code&gt;null&lt;/code&gt;.
+   </pre>
+
+      </section>
+
+      <section class="section" id="WSEditorBase__method_void_save__"><h2 class="title sectiontitle">Method "save"</h2>
+         
+         <div style="display: block; border: 1 black solid; padding: 2pt; color: maroon; margin-bottom: 6pt;">
+            <h3>Declaration</h3>
+             
+               <kbd><b>void</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>save</b></kbd>
+               <kbd class="ph sep">(</kbd>
+               <kbd class="ph sep">)</kbd>
+             
+         </div>
+         <pre class="pre" id="WSEditorBase__comment_method_void_save__">
+   Saves the editor content.
+   </pre>
+
+      </section>
+
+      <section class="section" id="WSEditorBase__method_void_saveAs_URL_location_"><h2 class="title sectiontitle">Method "saveAs"</h2>
+         
+         <div style="display: block; border: 1 black solid; padding: 2pt; color: maroon; margin-bottom: 6pt;">
+            <h3>Declaration</h3>
+             
+               <kbd><b>void</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>saveAs</b></kbd>
+               <kbd class="ph sep">(</kbd>
+               <kbd><b>URL</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>location</b></kbd>
+               <kbd class="ph sep">)</kbd>
+             
+         </div>
+         <pre class="pre" id="WSEditorBase__comment_method_void_saveAs_URL_location_">
+   Saves the editor content to a new location. 
+   This method is not implemented in the Oxygen Eclipse plugin.
+   
+   @param location The new editor location.
+   
+   @since 13
+   </pre>
+
+      </section>
+
+      <section class="section" id="WSEditorBase__method_boolean_close_boolean_askForSave_"><h2 class="title sectiontitle">Method "close"</h2>
+         
+         <div style="display: block; border: 1 black solid; padding: 2pt; color: maroon; margin-bottom: 6pt;">
+            <h3>Declaration</h3>
+             
+               <kbd><b>boolean</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>close</b></kbd>
+               <kbd class="ph sep">(</kbd>
+               <kbd><b>boolean</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>askForSave</b></kbd>
+               <kbd class="ph sep">)</kbd>
+             
+         </div>
+         <pre class="pre" id="WSEditorBase__comment_method_boolean_close_boolean_askForSave_">
+   Closes the current editor.
+   &lt;p&gt;
+   If the editor has unsaved content and &lt;code&gt;askForSave&lt;/code&gt; is
+   &lt;code&gt;true&lt;/code&gt;, the user will be given the opportunity to save it.
+   &lt;/p&gt;
+   
+   @param askForSave &lt;code&gt;true&lt;/code&gt; to save the editor contents if required,
+              and &lt;code&gt;false&lt;/code&gt; to discard any unsaved changes.
+   @return &lt;code&gt;true&lt;/code&gt; if the editor was successfully closed, and
+           &lt;code&gt;false&lt;/code&gt; if the editor is still open
+   </pre>
+
+      </section>
+
+      <section class="section" id="WSEditorBase__method_boolean_isModified__"><h2 class="title sectiontitle">Method "isModified"</h2>
+         
+         <div style="display: block; border: 1 black solid; padding: 2pt; color: maroon; margin-bottom: 6pt;">
+            <h3>Declaration</h3>
+             
+               <kbd><b>boolean</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>isModified</b></kbd>
+               <kbd class="ph sep">(</kbd>
+               <kbd class="ph sep">)</kbd>
+             
+         </div>
+         <pre class="pre" id="WSEditorBase__comment_method_boolean_isModified__">
+   This method can be used to determine if the document from the editor contains unsaved modifications.
+   
+   @return &lt;code&gt;true&lt;/code&gt; if the document in the current editor contains unsaved modifications. 
+   </pre>
+
+      </section>
+
+      <section class="section" id="WSEditorBase__method_void_setModified_boolean_modified_"><h2 class="title sectiontitle">Method "setModified"</h2>
+         
+         <div style="display: block; border: 1 black solid; padding: 2pt; color: maroon; margin-bottom: 6pt;">
+            <h3>Declaration</h3>
+             
+               <kbd><b>void</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>setModified</b></kbd>
+               <kbd class="ph sep">(</kbd>
+               <kbd><b>boolean</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>modified</b></kbd>
+               <kbd class="ph sep">)</kbd>
+             
+         </div>
+         <pre class="pre" id="WSEditorBase__comment_method_void_setModified_boolean_modified_">
+   Set the modified status of the editor document.
+   
+   For SWT the result of this method is guaranteed only when working exclusively with the author page. 
+   If the text page contains modifications (and is marked as dirty) this method is unable to change its state 
+   to unmodified. 
+   
+   @param modified &lt;code&gt;true&lt;/code&gt; if the document in the current editor contains unsaved modifications. 
+   </pre>
+
+      </section>
+
+      <section class="section" id="WSEditorBase__method_boolean_isNewDocument__"><h2 class="title sectiontitle">Method "isNewDocument"</h2>
+         
+         <div style="display: block; border: 1 black solid; padding: 2pt; color: maroon; margin-bottom: 6pt;">
+            <h3>Declaration</h3>
+             
+               <kbd><b>boolean</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>isNewDocument</b></kbd>
+               <kbd class="ph sep">(</kbd>
+               <kbd class="ph sep">)</kbd>
+             
+         </div>
+         <pre class="pre" id="WSEditorBase__comment_method_boolean_isNewDocument__">
+   This method can be used to determine if the document from the editor was ever saved.
+   
+   @return &lt;code&gt;true&lt;/code&gt; if the document in the current editor is new. 
+   </pre>
+
+      </section>
+
+      <section class="section" id="WSEditorBase__method_Reader_createContentReader__"><h2 class="title sectiontitle">Method "createContentReader"</h2>
+         
+         <div style="display: block; border: 1 black solid; padding: 2pt; color: maroon; margin-bottom: 6pt;">
+            <h3>Declaration</h3>
+             
+               <kbd><b>Reader</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>createContentReader</b></kbd>
+               <kbd class="ph sep">(</kbd>
+               <kbd class="ph sep">)</kbd>
+             
+         </div>
+         <pre class="pre" id="WSEditorBase__comment_method_Reader_createContentReader__">
+   Create a reader over the whole editor's content (exactly the XML content which gets saved on disk).
+   The unsaved changes are included. If for the Author page change tracking highlights are present, they are also included as processing instructions.
+   @see ro.sync.ecss.markers.MarkerConstants for the processing instruction names
+   
+   @return The content reader.In normal circumstances the reader should not be &lt;code&gt;null&lt;/code&gt;.
+   </pre>
+
+      </section>
+
+      <section class="section" id="WSEditorBase__method_InputStream_createContentInputStream___throws_IOException"><h2 class="title sectiontitle">Method "createContentInputStream"</h2>
+         
+         <div style="display: block; border: 1 black solid; padding: 2pt; color: maroon; margin-bottom: 6pt;">
+            <h3>Declaration</h3>
+             
+               <kbd><b>InputStream</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>createContentInputStream</b></kbd>
+               <kbd class="ph sep">(</kbd>
+               <kbd class="ph sep">)</kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>throws</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>IOException</b></kbd>
+             
+         </div>
+         <pre class="pre" id="WSEditorBase__comment_method_InputStream_createContentInputStream___throws_IOException">
+   Create a properly encoded input stream reader over the whole editor's content (exactly the XML content which gets saved on disk).
+   The unsaved changes are included. If for the Author page change tracking highlights are present, they are also included as processing instructions.
+   @see ro.sync.ecss.markers.MarkerConstants for the processing instruction names
+   
+   @return An input stream over the XML contents.In normal circumstances the input stream should not be &lt;code&gt;null&lt;/code&gt;.
+   @throws IOException 
+   
+   @since 15.2
+   </pre>
+
+      </section>
+
+      <section class="section" id="WSEditorBase__method_void_reloadContent_Reader_reader_"><h2 class="title sectiontitle">Method "reloadContent"</h2>
+         
+         <div style="display: block; border: 1 black solid; padding: 2pt; color: maroon; margin-bottom: 6pt;">
+            <h3>Declaration</h3>
+             
+               <kbd><b>void</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>reloadContent</b></kbd>
+               <kbd class="ph sep">(</kbd>
+               <kbd><b>Reader</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>reader</b></kbd>
+               <kbd class="ph sep">)</kbd>
+             
+         </div>
+         <pre class="pre" id="WSEditorBase__comment_method_void_reloadContent_Reader_reader_">
+   Update the whole content of the editor with the one taken from the reader.
+   This will lose undo history and any modifications the editor may have.
+   
+   @param reader The reader provided by the extension.
+   </pre>
+
+      </section>
+
+      <section class="section" id="WSEditorBase__method_void_reloadContent_Reader_reader__boolean_discardUndoableEdits_"><h2 class="title sectiontitle">Method "reloadContent"</h2>
+         
+         <div style="display: block; border: 1 black solid; padding: 2pt; color: maroon; margin-bottom: 6pt;">
+            <h3>Declaration</h3>
+             
+               <kbd><b>void</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>reloadContent</b></kbd>
+               <kbd class="ph sep">(</kbd>
+               <kbd><b>Reader</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>reader</b></kbd>
+               <kbd class="ph sep">,</kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>boolean</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>discardUndoableEdits</b></kbd>
+               <kbd class="ph sep">)</kbd>
+             
+         </div>
+         <pre class="pre" id="WSEditorBase__comment_method_void_reloadContent_Reader_reader__boolean_discardUndoableEdits_">
+   Update the whole content of the editor with the one taken from the reader.
+   This will lose any modifications the editor may have unless discardUndoableEdits
+   is &lt;code&gt;false&lt;/code&gt; in which case you will be able to UNDO the editor
+   to the content prior to the reload.
+   
+   @param reader The reader provided by the extension.
+   @param discardUndoableEdits &lt;code&gt;true&lt;/code&gt; to lose undo history.
+   
+   @since 13.2
+   </pre>
+
+      </section>
+
+      <section class="section" id="WSEditorBase__method_void_setEditorTabText_String_tabText_"><h2 class="title sectiontitle">Method "setEditorTabText"</h2>
+         
+         <div style="display: block; border: 1 black solid; padding: 2pt; color: maroon; margin-bottom: 6pt;">
+            <h3>Declaration</h3>
+             
+               <kbd><b>void</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>setEditorTabText</b></kbd>
+               <kbd class="ph sep">(</kbd>
+               <kbd><b>String</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>tabText</b></kbd>
+               <kbd class="ph sep">)</kbd>
+             
+         </div>
+         <pre class="pre" id="WSEditorBase__comment_method_void_setEditorTabText_String_tabText_">
+   Set the text which appears on the editor's tab, by default it is the loaded file name.
+   Set it with the value NULL to reset the tab title to the default value (the loaded file name).
+   
+   @param tabText the text which appears on the editor's tab, by default it is the loaded file name.
+   NULL to reset the tab title to the default value (the loaded file name).
+   
+   @since 12.1
+   </pre>
+
+      </section>
+
+      <section class="section" id="WSEditorBase__method_void_setEditorTabTooltipText_String_tabTooltip_"><h2 class="title sectiontitle">Method "setEditorTabTooltipText"</h2>
+         
+         <div style="display: block; border: 1 black solid; padding: 2pt; color: maroon; margin-bottom: 6pt;">
+            <h3>Declaration</h3>
+             
+               <kbd><b>void</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>setEditorTabTooltipText</b></kbd>
+               <kbd class="ph sep">(</kbd>
+               <kbd><b>String</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>tabTooltip</b></kbd>
+               <kbd class="ph sep">)</kbd>
+             
+         </div>
+         <pre class="pre" id="WSEditorBase__comment_method_void_setEditorTabTooltipText_String_tabTooltip_">
+   Set the tooltip text for the editor's tab, by default it is the loaded file path.
+   Set it with the value NULL to reset the tab title to the default value (the loaded file path).
+   
+   @param tabTooltip the tooltip for the editor's tab, by default it is the loaded file path.
+   NULL to reset the tab tooltip to the default value (the loaded file path).
+   
+   @since 12.1
+   </pre>
+
+      </section>
+
+      <section class="section" id="WSEditorBase__method_DocumentTypeInformation_getDocumentTypeInformation__"><h2 class="title sectiontitle">Method "getDocumentTypeInformation"</h2>
+         
+         <div style="display: block; border: 1 black solid; padding: 2pt; color: maroon; margin-bottom: 6pt;">
+            <h3>Declaration</h3>
+             
+               <kbd><b>DocumentTypeInformation</b></kbd>
+               <kbd class="ph sep"><!--null--></kbd>
+               <kbd><b>getDocumentTypeInformation</b></kbd>
+               <kbd class="ph sep">(</kbd>
+               <kbd class="ph sep">)</kbd>
+             
+         </div>
+         <pre class="pre" id="WSEditorBase__comment_method_DocumentTypeInformation_getDocumentTypeInformation__">
+   Get information about the current document type configuration used to edit the XML document.
+   @return information about the current document type configuration used to edit the XML document or &lt;code&gt;null&lt;/code&gt; if no document type
+   configuration is matched or the editor does not have an XML content type.
+   
+   @since 16.1
+   
+   &lt;br&gt;
+   &lt;br&gt;
+   *********************************
+   &lt;br&gt;
+   EXPERIMENTAL - Subject to change
+   &lt;br&gt;
+   ********************************
+   &lt;/br&gt;
+   &lt;p&gt;Please note that this API is not marked as final and it can change in one of the next versions of the application. If you have suggestions, 
+   comments about it, please let us know.&lt;/p&gt;
+   </pre>
+
+      </section>
+
+   </div>
+
+<nav role="navigation" class="related-links"></nav></article></main><footer role="contentinfo"><div class="navfooter"><!---->
+<span class="navparent"><a class="link" href="resources/mixedStuffDITAglass.html" title="DITA Glass ist ein Projekt von oXygen Xml Editor (by Syncro Soft). Das Beispiel ist auf GITHub verfügbar und kann dort heruntergeladen werden"><span class="navheader_label">Parent topic</span><span class="navheader_separator">: </span><span class="navheader_linktext">Mixed formats oXygen DITA Glass</span></a></span>  </div><div class="footer" id="webhelp_copyright_information">WebHelp output generated by<a class="oxyFooter" href="http://www.oxygenxml.com" target="_blank">
+                            &lt;oXygen/&gt; XML Author
+                        </a></div></footer></body>
+</html>

@@ -30,7 +30,7 @@ Hinweis: Ein deutlich hörbares Einrastgeräusch signalisiert, dass sich der Nei
 
 ![../../../images/media/Neigen_Stand.png](../../../images/media/Neigen_Stand.png)
 
-_: Neigung einstellen_
+_Neigung einstellen_
 
 1. Greifen Sie den Ventilator am Griff auf der Oberseite.
 
